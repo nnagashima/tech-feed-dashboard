@@ -1,0 +1,2454 @@
+{
+  "updated_at": "2026-08-11T08:11:16.513607+00:00",
+  "sources": [
+    {
+      "name": "Speaker Deck",
+      "category": "Speaker Deck",
+      "url": "https://speakerdeck.com/c/technology",
+      "feed_url": "https://speakerdeck.com/c/technology.atom"
+    },
+    {
+      "name": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "url": "https://b.hatena.ne.jp/hotentry/it",
+      "feed_url": "https://b.hatena.ne.jp/hotentry/it.rss"
+    },
+    {
+      "name": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "url": "https://dev.classmethod.jp/tags/aws/",
+      "feed_url": "https://dev.classmethod.jp/tags/aws/feed/"
+    },
+    {
+      "name": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "url": "https://dev.classmethod.jp/tags/claude/",
+      "feed_url": "https://dev.classmethod.jp/tags/claude/feed/"
+    },
+    {
+      "name": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "url": "https://dev.classmethod.jp/tags/azure/",
+      "feed_url": "https://dev.classmethod.jp/tags/azure/feed/"
+    },
+    {
+      "name": "Qiita（AWS）",
+      "category": "AWS",
+      "url": "https://qiita.com/tags/aws",
+      "feed_url": "https://qiita.com/tags/aws/feed"
+    },
+    {
+      "name": "Qiita（Azure）",
+      "category": "Azure",
+      "url": "https://qiita.com/tags/azure",
+      "feed_url": "https://qiita.com/tags/azure/feed"
+    },
+    {
+      "name": "Qiita（Claude）",
+      "category": "Claude",
+      "url": "https://qiita.com/tags/claude",
+      "feed_url": "https://qiita.com/tags/claude/feed"
+    },
+    {
+      "name": "Qiita（ChatGPT）",
+      "category": "ChatGPT",
+      "url": "https://qiita.com/tags/ChatGPT",
+      "feed_url": "https://qiita.com/tags/ChatGPT/feed"
+    },
+    {
+      "name": "Qiita（Kubernetes）",
+      "category": "Kubernetes",
+      "url": "https://qiita.com/tags/kubernetes",
+      "feed_url": "https://qiita.com/tags/kubernetes/feed"
+    },
+    {
+      "name": "Qiita（Docker）",
+      "category": "Docker",
+      "url": "https://qiita.com/tags/docker",
+      "feed_url": "https://qiita.com/tags/docker/feed"
+    },
+    {
+      "name": "Zenn（AWS）",
+      "category": "AWS",
+      "url": "https://zenn.dev/topics/aws",
+      "feed_url": "https://zenn.dev/topics/aws/feed"
+    },
+    {
+      "name": "Zenn（Azure）",
+      "category": "Azure",
+      "url": "https://zenn.dev/topics/azure",
+      "feed_url": "https://zenn.dev/topics/azure/feed"
+    },
+    {
+      "name": "Zenn（Claude）",
+      "category": "Claude",
+      "url": "https://zenn.dev/topics/claude",
+      "feed_url": "https://zenn.dev/topics/claude/feed"
+    },
+    {
+      "name": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "url": "https://zenn.dev/topics/chatgpt",
+      "feed_url": "https://zenn.dev/topics/chatgpt/feed"
+    },
+    {
+      "name": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "url": "https://zenn.dev/topics/kubernetes",
+      "feed_url": "https://zenn.dev/topics/kubernetes/feed"
+    },
+    {
+      "name": "Zenn（Docker）",
+      "category": "Docker",
+      "url": "https://zenn.dev/topics/docker",
+      "feed_url": "https://zenn.dev/topics/docker/feed"
+    }
+  ],
+  "errors": [],
+  "articles": [
+    {
+      "title": "「一時チャットだから残りません」と説明しかけた — 3社の原文には 72時間・30日・30日と書いてあった",
+      "url": "https://qiita.com/17jikaeru/items/b0da5595a0d8ef193290",
+      "source": "Qiita（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-11T08:04:59+00:00",
+      "summary": "「議事録は一時チャットに貼ってください。履歴に残らないので」と社内に案内しかけました。 出す前に3社の原文を読んだら、3社とも「残る」と書いていました。 期間は 72時間・30日・30日。それぞれ違いました。 対象は OpenAI（ChatGPT Temporary Cha..."
+    },
+    {
+      "title": "Claude Code v2.1.227 の主要アップデート - Sonnet 5の8/31までの導入価格が今後も維持される",
+      "url": "https://dev.classmethod.jp/articles/20260811-cc-updates-v2-1-227/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-11T08:02:00+00:00",
+      "summary": "Claude Code v2.1.227（2026-08-10）のアップデートをご紹介します。新機能はありませんが、CI上でBashコマンドが失敗する不具合と、プラン判定に関わる課金案内の誤りが解消されました。また、Sonnet 5の8/31までの導入価格が今後も利用可能になりました。"
+    },
+    {
+      "title": "相続税と固定資産税は何を生み、何を失うのか？ ― 資産循環と日本の供給力から考える国家OSのリファクタリング : システム設計視点の行動経済学 (12)",
+      "url": "https://qiita.com/maskot1977/items/4ccfecebcce9dd790050",
+      "source": "Qiita（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-11T07:44:53+00:00",
+      "summary": "user: 「システム設計視点の行動経済学」、第12回を始めましょう。今回は相続税と固定資産税について深掘りしたいと思います。まず前回の復習として、 税と再分配は何のため？ ― 『正統性』から考える国家OSのリファクタリング : システム設計視点の行動経済学 (11) h..."
+    },
+    {
+      "title": "Amazon EC2 に「アプリケーションステータスチェック」が追加（2026年8月10日発表）",
+      "url": "https://qiita.com/OhkuboT/items/abeee2ecb5bff7cc2148",
+      "source": "Qiita（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T07:32:32+00:00",
+      "summary": "何ができるようになったか EC2 インスタンス上で動いている「アプリケーション層」の異常を、EC2 自身が検知・通知できるようになりました。 検知できる例として挙げられているのは以下のようなケースです： Web サーバーがリクエストを受け付けなくなった Docker デ..."
+    },
+    {
+      "title": "AutoScaling+CloudWatch設定で詰まった話",
+      "url": "https://qiita.com/nino-san/items/6ec7af93ef4368aeb712",
+      "source": "Qiita（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T07:29:19+00:00",
+      "summary": "はじめに 上記の記事でAutoScalingを使用した環境を構築しました。その際に、AutoScalingGroupのインスタンスのメトリクスを収集しようとした際に設定で詰まったので、詰まった点と解決方法を備忘録としてアウトプットします。 やろうとしていたこと ..."
+    },
+    {
+      "title": "【CloudWatch Logs】ログへ混ざった個人情報を自動でマスクしてみましょうか",
+      "url": "https://qiita.com/miruky/items/74323221d4cdba7e7f63",
+      "source": "Qiita（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T07:23:18+00:00",
+      "summary": "はじめに こんばんは、mirukyです。 わりとあるあるかな、と思うのですがCloucWatchのログに、意図せず個人情報を垂れ流しにしちゃいがちじゃないですか。開発者しか見ないから大丈夫かと思われるかもしれませんが、ともすればインシデントになりかねない結構危険な状態です..."
+    },
+    {
+      "title": "AWS入門",
+      "url": "https://qiita.com/umemasa3/items/f1a3362a53c1631d4713",
+      "source": "Qiita（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T06:40:37+00:00",
+      "summary": "AWS入門"
+    },
+    {
+      "title": "macOS標準のcontainerとmockerを使って、管理者権限なしで docker が使えるようにしてみた",
+      "url": "https://qiita.com/self-learner/items/50a575db929ad9ead820",
+      "source": "Qiita（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-11T06:26:28+00:00",
+      "summary": "WWDC 26で発表された container、記事がQiitaでも徐々に増えてきてますね。 こういった記事を読んで、container を使ってみたところ、管理者権限なしで色々できることに気づきました。 で、Dockerの代わりにならないかと思ってAIに相談し、紹介..."
+    },
+    {
+      "title": "AppFlowでSharePointをS3へ連携しようとしたらいっぱいエラーに遭遇したので対処方法をまとめます",
+      "url": "https://dev.classmethod.jp/articles/amazon-appflow-sharepoint-online-to-s3-troubleshooting/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T05:58:45+00:00",
+      "summary": "Amazon AppFlowを使ってMicrosoft SharePoint OnlineからAmazon S3へデータを連携する際に遭遇したエラーと解消方法をまとめました。実際の設定手順と転送動作も合わせて紹介します。"
+    },
+    {
+      "title": "Reachy 2 のシミュレータで、子供が話しかけられるロボットを作った",
+      "url": "https://qiita.com/togakyo/items/b3523951f405895fd4cc",
+      "source": "Qiita（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-11T05:32:41+00:00",
+      "summary": "はじめに Pollen Robotics の人型ロボット Reachy 2 には、公式のシミュレータが Docker イメージで配布されています。実機がなくても、ロボットを動かす プログラムを書いて試せます。 これを使って、子供が声や文字で話しかけると返事をするロボットを..."
+    },
+    {
+      "title": "VM の構成管理を実現したい！ Azure のマシンの構成を使ってみた",
+      "url": "https://qiita.com/iboy/items/23050c265ac9e6e21a1c",
+      "source": "Qiita（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-11T05:04:17+00:00",
+      "summary": "はじめに Azure VM を利用しているときに、VM の設定や構成を管理したい場合があると思います。 この構成の管理の方法としては、Intune や Active Directory などのツールを利用する方法がありますが、これらの方法は、それぞれのサービスに VM を..."
+    },
+    {
+      "title": "自作MCPサーバーを.mcpbにしてClaude Desktopにワンクリックで入れてみた",
+      "url": "https://dev.classmethod.jp/articles/mcpb-claude-desktop/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-11T04:58:26+00:00",
+      "summary": "MCPサーバーをワンクリックで配布できる`.mcpb`形式について、現在時刻を返すサーバーを作りながら実装方法を試してみました。設定ファイルの複雑さを解消する新しい配布形式の使い方を紹介します。"
+    },
+    {
+      "title": "重説調査の「まず、どこを調べるか」をChatGPTに任せる｜プラグイン「重調クン」の設計メモ",
+      "url": "https://qiita.com/Matsda_K/items/02d8689bb7db362e5be6",
+      "source": "Qiita（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-11T04:47:23+00:00",
+      "summary": "不動産の重要事項説明書（宅建業法35条書面）を作る前には、調査フェーズがあります。登記、都市計画、道路、ハザード、ライフライン、各種法令。項目自体はほぼ決まっているのに、この工程はいまだに人力です。 そこを一次スクリーニングだけでも機械に渡せないかと思って作ったのが「重調ク..."
+    },
+    {
+      "title": "EC2の新機能「アプリケーションステータスチェック」でAuto Scaling自動置換を試してみた",
+      "url": "https://dev.classmethod.jp/articles/amazon-ec2-application-status-checks/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T04:30:33+00:00",
+      "summary": "Amazon EC2 にアプリケーションステータスチェック機能が追加されました。HTTP/HTTPS でアプリケーションの死活を監視し、異常時は Auto Scaling が自動でインスタンスを置換します。チェック作成から ok/impaired 遷移、Auto Scaling 連携、マネージドENI の仕組みまで検証しました。"
+    },
+    {
+      "title": "Midnight AI Groove 26-08-06",
+      "url": "https://qiita.com/masykot582/items/d700bacc077d73c0812d",
+      "source": "Qiita（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-11T04:00:52+00:00",
+      "summary": "[番組ジングル] DJミオ: こんばんは。「Midnight AI Groove」、ナビゲーターのDJミオです。 DJレン: そして僕、DJレンです。今夜は、タイトルだけ見ると静かな日。でも中身を開けると、AI業界の重要な流れがかなり濃く見える、そんなニュース群を整理..."
+    },
+    {
+      "title": "LanceDB入門",
+      "url": "https://speakerdeck.com/mocobeta/lancedb-nyuumon",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T03:31:14+00:00",
+      "summary": "第67回 MLOps/LLMOps/AgentOps 勉強会 (https://mlops.connpass.com/event/401457/) の発表資料です。"
+    },
+    {
+      "title": "Factory AI 完全解説 2026.",
+      "url": "https://speakerdeck.com/x5gtrn/factory-ai-the-complete-guide-2026-ja",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T03:19:22+00:00",
+      "summary": "https://daisuke.masuda.tokyo/article-2026-08-11-1401 本スライドは、2026年最新のFactory AIを解説するエンジニア向けガイドです。従来の単発的なコーディング支援から進化し、役割特化型エージェント「Droids」がSDLC全体を自動化する「Software Factory」の概念を提示します。数日間の自律実行を可能にするMissions、永続環境のDroid Computers、コストを最適化するFactory Routerなどの新機能に加え、CursorやSentry等との実践的な連携手法を紹介。AIが実装を担い、エンジニアが「工場を設計・運営する」という新たな開発パラダイムへの移行と、導入に向けた具体的なロードマップを提示しています。"
+    },
+    {
+      "title": "Factory AI: The Complete Guide 2026",
+      "url": "https://speakerdeck.com/x5gtrn/factory-ai-the-complete-guide-2026",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T03:17:58+00:00",
+      "summary": "Japanese Edition https://daisuke.masuda.tokyo/article-2026-08-11-1401 This 2026 guide explores Factory AI's \"Software Factory\" paradigm, where specialized Droids automate the entire SDLC. It highlights key updates like multi-day Missions, persistent Droid Computers, and the cost-optimizing Factory Router. Featuring practical integrations with tools like Cursor and Sentry via MCP, the presentation illustrates how engineers will evolve from manually writing code to designing and orchestrating auto"
+    },
+    {
+      "title": "自宅サーバーで使っているOSSアプリのメールをMailpitで受信し、Discordへ通知する",
+      "url": "https://qiita.com/ks1905/items/68d9cf3fa6053f3d6788",
+      "source": "Qiita（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-11T03:14:08+00:00",
+      "summary": "はじめに 自宅サーバーでOSSアプリを動かしていると、ユーザー登録やパスワードリセットなどでメールの送信が必要になることがあります。 しかし、自宅サーバーから直接メールを送信するには、SMTPサーバーの用意や送信元ドメインの設定などが必要となり、手間がかかります。 そこで..."
+    },
+    {
+      "title": "マイクロソフトと「ウィンウィンの関係」だった国産「一太郎」…日本語の優れた変換能力で「ワードは敵ではない」ように見えた",
+      "url": "https://www.yomiuri.co.jp/economy/20260811-GYT1T00103/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T02:37:06+00:00",
+      "summary": "【読売新聞】 ＯＳ（基本ソフト）を握る者がソフトを制す――。１９８０～９０年代に隆盛を誇った国民的ワープロソフト「一太郎」。日本を代表する国産ソフトがマイクロソフトの「ワード」に逆転を許した背景には、当時、ＯＳ市場の９割以上を握って"
+    },
+    {
+      "title": "[アップデート] Amazon SES の Open/Click イベント通知にボット判定フィールド isBotEvent が追加されたので確認してみた",
+      "url": "https://dev.classmethod.jp/articles/amazon-ses-automated-email-interactions/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T01:45:39+00:00",
+      "summary": "Amazon SESのOpen/Clickイベント通知に新たに追加された`isBotEvent`フィールドについて、実際の動作を確認しながら紹介します。メールセキュリティスキャナーなど自動システムによるイベントを人間の操作と区別できるようになり、エンゲージメント計測の精度向上が期待できます。"
+    },
+    {
+      "title": "Go（Gin）APIをECS Fargate・RDS・ALB・Route 53でマルチAZ構成にデプロイする",
+      "url": "https://qiita.com/sue-hc/items/e7fa29c6001ed5043922",
+      "source": "Qiita（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-11T01:34:17+00:00",
+      "summary": "はじめに Go（Gin）で作成したWeb APIをAWSへデプロイしました。 コンテナはAmazon ECS on AWS Fargate、データベースはAmazon RDS for PostgreSQLで実行します。Application Load Balancer（A..."
+    },
+    {
+      "title": "LLM・AIエージェントシステムベストプラクティス",
+      "url": "https://speakerdeck.com/shibuiwilliam/llm-ai",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T01:26:16+00:00",
+      "summary": "8/11 第67回 MLOps/LLMOps/AgentOps 勉強会登壇資料 https://mlops.connpass.com/event/401457/"
+    },
+    {
+      "title": "Power BI Deep Dive [2026-08]",
+      "url": "https://speakerdeck.com/ohata_bi/power-bi-deep-dive-2026-08",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T01:25:13+00:00",
+      "summary": "Power BI Deep Dive [2026-08] の資料です。"
+    },
+    {
+      "title": "「全面ガラスのiPhone」開発頓挫か 歩留まりの低さが原因との報道",
+      "url": "https://japan.cnet.com/article/35251481/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T01:20:07+00:00",
+      "summary": "この端末は、iPhone誕生20周年に当たる2027年秋の発売がうわさされていた。Barron'sによると、価格は2060ドルという高額になる可能性があった。 Appleは2019年、「6面ガラス筐体」の電子機器に関する特許を出願した。全面ガラスのiPhoneのうわさは、これをきっかけに広まった。特許に描かれた端末はiPhoneに似ていた。片..."
+    },
+    {
+      "title": "How Claude marks AI-generated content | Claude Help Center",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T01:19:34+00:00",
+      "summary": ""
+    },
+    {
+      "title": "SRE は AI に何を任せるべきか。Plaid が Datadog で出した答え / what -should-SREs-delegate-to-AI? Plaid’s-answer-powered-by-Datadog",
+      "url": "https://speakerdeck.com/parupappa2929/what-should-sres-delegate-to-ai-plaids-answer-powered-by-datadog",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-11T01:14:09+00:00",
+      "summary": "Google Cloud Next Tokyo 2026 での PLAID との 登壇内容。"
+    },
+    {
+      "title": "finny tables、やねうら王に実装される | やねうら王 公式サイトやねうら王 公式サイト",
+      "url": "https://yaneuraou.yaneu.com/2026/08/11/finny-tables-implemented-in-yaneuraou/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T01:05:41+00:00",
+      "summary": "将棋AI界に激震が走った。finny tablesという発明が将棋AIに持ち込まれた。詳しいことは下記のページを見てほしい。 NNUE performance improvements https://asteri.sm/files/2024-06-01-nnue#bucket-accumulator-caching-or-finny-tables finnyは意味のある英単語ではなく、発明者の名前に由来するようである。技術的に..."
+    },
+    {
+      "title": "YouTube、収益化基準を2027年に大幅引き上げへ 新規参加条件が従来の2倍に",
+      "url": "https://www.itmedia.co.jp/news/article/2608/11/2000000495/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T01:03:24+00:00",
+      "summary": "米Google傘下のYouTubeは8月10日（現地時間）、「YouTubeパートナープログラム」（以下、YPP）の収益化条件を2027年2月1日付で変更すると発表した。2018年以来の大きな変更としており、新規参加条件の引き上げと、ショート動画の収益分配に関する新たな基準が柱になる。 既にYPPに参加しているクリエイターにとって、条..."
+    },
+    {
+      "title": "【復旧済】はてなブックマークへの接続ができない・不安定になる障害が発生していました - はてなブックマーク開発ブログ",
+      "url": "https://bookmark.hatenastaff.com/entry/2026/08/11/092529",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T00:51:21+00:00",
+      "summary": "いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年8月11日（火）3:00頃から9:50頃にかけて、はてなブックマークへの接続ができない・不安定になる障害が発生していました。 原因はシステムに一時的な過負荷が発生したことによる動作不具合となります。 現在は復旧が確認されていますが、引き..."
+    },
+    {
+      "title": "Claude Sonnet 4・Opus 4廃止ガイド — 6/15期限の移行チェックリスト",
+      "url": "https://zenn.dev/kai_kou/articles/258-claude-sonnet4-opus4-june15-migration-guide",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-11T00:50:06+00:00",
+      "summary": "📌 2026-06-19 追記: 本記事の移行期限（2026年6月15日）は経過しています。未移行の場合は現行の最新モデルへ速やかに移行してください（対応モデルは Anthropic 公式ドキュメントで確認）。以下は当時の移行チェックリストです。 はじめに 2026年4月20日（本日）、Claude 3 Haiku（claude-3-haiku-20240307）が正式に廃棄（Retired）されました。APIへのリクエストはエラーを返すようになっています。 そして次の廃棄期限が迫っています。2026年6月15日（JST）、以下の2モデルが廃棄されます。 claude-son..."
+    },
+    {
+      "title": "GenRecの技術的詳細",
+      "url": "https://zenn.dev/catatsuy/scraps/7a1bb37421789b",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-11T00:02:27+00:00",
+      "summary": "GenRec：Netflixが目指すLLMネイティブな推薦システム 元記事：GenRec: Towards LLM-native Recommendation at Netflix 概要 NetflixのGenRecは、ユーザーの視聴履歴や作品情報を自然言語へ変換し、Netflix向けに追加学習したLLMで読み取ったうえで、Netflixのカタログ内に存在する作品だけをランキングする推薦モデルで..."
+    },
+    {
+      "title": "Goで .tf(HCL) から属性を安全に取り出す：静的解析の落とし穴",
+      "url": "https://zenn.dev/mabui/articles/go-hcl-static-analysis",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T00:00:06+00:00",
+      "summary": "公開リポジトリ: https://github.com/mabuix/iac-guard 前回（記事②）で「iac-guard の検出は決定論的にしている」と書きました。その土台になっているのが、Terraform の .tf を HCL として静的に解析する部分です。今回はそこを掘ります。テーマは「変数に化けた値で、どう誤検知を防ぐか」。 やりたいこと .tf を読んで「aws_ebs_volume の type が \"gp2\" か？」みたいな判定をしたい。terraform を実行せず、ソースを読むだけで。 Terraform は HCL という設定言語で書かれていて、Go ..."
+    },
+    {
+      "title": "AWS・CCNA/CCNP・LPICのトラブルシューティングを疑似体験できる演習サイトを作った話【RunbookLab】",
+      "url": "https://zenn.dev/sorapenguin/articles/runbooklab-troubleshooting-lab",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-11T00:00:06+00:00",
+      "summary": "はじめに RunbookLab（https://runbook-lab.sorapenguin.dev）は、AWS・Cisco（CCNA・CCNP ENCOR/ENARSI）・LPICの資格試験対策を、ログやコマンド出力から原因を特定するトラブルシューティング形式で学べる無料の演習サービスです。 主な特徴： 実際のCLI出力・AWS CLIレスポンスをもとに「調査→診断→対処→復旧確認」を体験 正答はサーバー側のみが保持し、クライアントには一切渡さない設計 AWS CLF・CCNA・CCNP ENARSI・CCNP ENCOR・LPIC（101/102/201/202/300/30..."
+    },
+    {
+      "title": "LLM APIの個人デモを公開するとき、キーを隠すだけでは足りなかった",
+      "url": "https://zenn.dev/ossudesu/articles/article-draft",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T23:55:47+00:00",
+      "summary": "この記事の対象と、扱う規模 個人開発でLLM APIを使い始めて、作ったものをインターネットに公開しようとしている人向けです。 先に規模感を正直に書いておきます。この記事は個人ポートフォリオのデモを公開する話であって、本番運用のセキュリティ設計の話ではありません。実際にやったのは、ダミーデータで動くデモを1本、事故らない形で公開しただけです。企業システムの水準を期待して読むと物足りないはずなので、そこは最初に断っておきます。 それでも書く理由は、この規模でも「知らないと確実に踏む穴」がいくつかあって、しかもそれが入門記事だとあまり書かれていないと感じたからです。 出発点：ブラウザ..."
+    },
+    {
+      "title": "【やじうまミニレビュー】 安すぎ！ダイソー880円の30W USB PD充電器を検証。実用性は他社製に勝る？",
+      "url": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132126.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T23:30:58+00:00",
+      "summary": ""
+    },
+    {
+      "title": "OpenClaw×Claude Code実践連携術：思考と実行を分離する開発フロー",
+      "url": "https://qiita.com/sescore/items/8b52428d6c450f6cab39",
+      "source": "Qiita（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T23:03:53+00:00",
+      "summary": "はじめに：なぜ「思考」と「実行」を分離するのか 2026年現在、AIエージェントを開発ワークフローに組み込むエンジニアが増えていますが、多くの人がぶつかる壁は「1つのAIに全部やらせようとして破綻する」というパターンです。要件整理・意思決定・記憶の保持と、実際のコーディン..."
+    },
+    {
+      "title": "Claude API の Web 検索ツール(web_search)を Python で実装する — allowed_domains 排他制約と引用ブロック処理、3つのハマりどころ【2026】",
+      "url": "https://qiita.com/yureki_lab/items/92970d8baa24bd07e229",
+      "source": "Qiita（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T23:01:47+00:00",
+      "summary": "はじめに / 対象と前提 Claude API には、モデル自身が Web 検索を実行して最新情報を根拠付きで回答する サーバーサイドツール web_search がある。自前で検索 API(Brave や Tavily 等)を用意して tool use のループを書く必..."
+    },
+    {
+      "title": "自宅GPUをAIエージェントに任せる3つの方法（MCPが最適とは限らない）",
+      "url": "https://zenn.dev/made_linlin/articles/local-gpu-ai-agent-mcp-skill-cli",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T22:50:15+00:00",
+      "summary": "自宅にGPUを1枚置いて画像・動画の生成環境を組むと、しばらくして必ず同じ問いにぶつかる。 「これ、自分でボタンを押し続けるのか？」 数十カットを順に回して、破綻していないか見て、直して、もう一度回す。この繰り返しは、まさにAIエージェントが代わりにやれる種類の仕事に見える。実際にできる。 ただし繋ぎ方が3通りあって、選び方で運用の重さが変わる。そして、繋ぐより先に決めておかないと全部が壊れるものが1つある。この記事はその両方を書く。 ! 筆者はローカル環境でAI MVを作っている。この記事の数値はすべてRTX 5090（VRAM 32GB）環境での実測値。エージェント側はClaude ..."
+    },
+    {
+      "title": "【特集】 懐かしのWindows 98から11まで！お盆休みにあの頃の思い出に浸ろう",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2131918.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T22:05:37+00:00",
+      "summary": ""
+    },
+    {
+      "title": "明日から業務に使える 生成AI活用ワークショップ",
+      "url": "https://speakerdeck.com/matyuda/ashita-kara-gyoumu-ni-tsukaeru-seisei-ai-katsuyou-wakushoppu",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-10T21:50:32+00:00",
+      "summary": "はくさん信用金庫 プレミアム 1000 社の会 第 81 回セミナーにて登壇した中小企業向け生成AI活用ワークショップ資料です"
+    },
+    {
+      "title": "売上表のラベルを段階的に省略すると、LLMはどこで列を取り違えるか",
+      "url": "https://zenn.dev/every_ai_recipe/articles/sales-table-label-omission-limit",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T21:08:43+00:00",
+      "summary": "TL;DR 表形式のデータをLLMに渡すとき、列見出し（ラベル）を「記号への置き換え」までは実務に耐えたが、「見出し行の完全削除」まで踏み込むと、系列が伸びるにつれて列の取り違えが起きた 記号への置き換え（対応表を冒頭で1回だけ提示）は3社中1社で、5日分（15セル）を超えたあたりから値の取り違えが発生した。「対応表を正しく復唱できる」ことと「集計作業に正しく反映できる」ことは別の能力として扱う必要がある 見出し行を完全に削除すると、3社中2社で列の順番そのものを取り違える回答が出た。列数を増やさなくても、渡す行数（系列長）を伸ばすだけで発生率が上がった 「間違えないでください」と..."
+    },
+    {
+      "title": "Azure × Databricks～UDR / Firewall設計：強制トンネリングと通信統制",
+      "url": "https://qiita.com/mellowlaunch/items/b3f3baff5e5f88f360ea",
+      "source": "Qiita（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T20:57:33+00:00",
+      "summary": "📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！Azure × Databricksでつくる次世代データ基盤 非公式ガイド ―』..."
+    },
+    {
+      "title": "【備忘録】Claude Coworkによるスキルのスケジュール実行",
+      "url": "https://qiita.com/mushroom-it-engineer/items/80b857e7f8b1d064c7f8",
+      "source": "Qiita（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T19:19:08+00:00",
+      "summary": "Claude Cowork備忘録 今日はClaude Coworkにて初めてローカルファイルの編集タスクをスキル化し、 スケジュール実行するようにしたため備忘録を残す。 AI初心者のためスキルの内容は不備があれば随時更新する予定です。 目次 Cowork有効化 スキル..."
+    },
+    {
+      "title": "アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 3 / Academy Camp 2026 Summer: Master Them! Our Independent Research Project with Them—Season 2 DAY3",
+      "url": "https://speakerdeck.com/ks91/academy-camp-2026-summer-master-them-our-independent-research-project-with-them-season-2-day3",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-10T19:09:19+00:00",
+      "summary": "2026年8月11日(火・祝) 早稲田大学で開催された アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 3 で使用したスライドです。"
+    },
+    {
+      "title": "個人開発でAIエラー解析ツール「ERROR DECODER」を作った話",
+      "url": "https://zenn.dev/kage299/articles/914844bab15cae",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T18:09:38+00:00",
+      "summary": "はじめに 新卒でインフラエンジニアとして働き始めて数ヶ月。平日は業務、開発に使える時間は土日中心という限られたリソースの中で、AIをフル活用して個人開発サービス「ERROR DECODER」を作りました。 ERROR DECODERは、エラーログやスタックトレースを貼り付けるだけで、AIが根本原因と具体的な解決手順を日本語で解説してくれるツールです。 https://error-decoder-beta.vercel.app/ この記事では、技術選定の理由と、実際に開発する中でハマったポイントを共有します。 なぜ作ったか エラーメッセージって、その一言一句がそのまま検索キーワード..."
+    },
+    {
+      "title": "DynamoDB Vector Searchは「ベクトルDBの代替」ではない！同期処理から考える本当の判断軸",
+      "url": "https://zenn.dev/gnc_tech/articles/0adb843c16dd6c",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T17:55:05+00:00",
+      "summary": "はじめに DynamoDBにある商品や会話履歴をベクトル検索するためだけに、OpenSearchへ同期していませんか？ 更新や削除だけでなく、再試行と不整合検知まで必要になります。 「似たデータを探したい」だけで増えた運用を、DynamoDB Vector Searchなら1本減らせます。 ! DynamoDB Vector Searchの本質は、ベクトルDBの代替ではありません。DynamoDBにある業務データを、別ストアへ複製せず類似検索できることです。 私は以前、DynamoDB Streamsで変更データをS3へ流す構成を記事にしました。 そのときも、Lambdaをつなぐこ..."
+    },
+    {
+      "title": "ローカルでのコーディングに最適な30Bモデル「Muse Glimmer」公開！",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2132128.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T17:12:40+00:00",
+      "summary": ""
+    },
+    {
+      "title": "CLAUDE.md と Skills の違い — 置き場を4つに分けた基準と、80本に増えて壊れたこと",
+      "url": "https://zenn.dev/nikokobo/articles/7a399b93c8d471",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T16:41:47+00:00",
+      "summary": "結論 CLAUDE.md と Skills の違いを一言でいうと、いつ読ませるかです。 置き場 いつ読まれるか 私の実測 CLAUDE.md / rules 毎回（常時ロード） 135行 / 5本486行 references 呼ばれた時だけ（オンデマンド） 20本 Skills その手順が起動した時だけ 80本 hook 読ませない（機械が止める） 57本 機能で分けるのではなく、コンテキストに常駐させるコストで分ける。これが120日運用してたどり着いた基準です。 そして、この記事の後半は失敗の話です。Skills を80本まで増やした結果、自..."
+    },
+    {
+      "title": "CLAUDE.md の書き方 — 指示を書いても守られないので、hook 57本に移した話",
+      "url": "https://zenn.dev/nikokobo/articles/fd08408988b168",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T16:16:14+00:00",
+      "summary": "結論 CLAUDE.md を120日書き続けて、いちばん効いた変更は 「書くのをやめたこと」 でした。 いま運用している CLAUDE.md は 135行です。一時期は500行を超えていましたが、削っていく過程で分かったのは、こういうことでした。 CLAUDE.md は「お願い」であって「強制」ではない。 本当に守らせたいルールは、CLAUDE.md から hook に移すしかない。 この記事では、120日運用した実測値と、実際に壊した失敗を出します。エージェントに何かを守らせようとして、指示文を厚くしている人向けです。 前提：どのくらいの規模の話か 数字はすべて実測です（2..."
+    },
+    {
+      "title": "ハーネスについての備忘録",
+      "url": "https://zenn.dev/st_27/articles/efb2436a8cd8e0",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T15:48:54+00:00",
+      "summary": "はじめに Claude Codeのコンテキストを作り込む中で勉強した内容をまとめつつ、普段Claude Codeで.claude/settings.jsonのpermissionsやhooks、sandboxを設定している人、またはこれから設定しようと考えている人向けに、それぞれの仕組みと信頼できる度合いを整理するきっかけになればと執筆しました。 ハーネスとは この記事で取り扱うハーネスとは、ツール呼び出しの可否を判断・実行するLLMの周辺システムのことを指します。ハーネスという言葉自体はインフラ全般を含むもっと広い概念ですが、この記事では特にモデルに対するガードレールとしての側..."
+    },
+    {
+      "title": "Claude.aiに自作APIを繋ぐにはOAuth 2.1が必要らしいので、認可サーバーごと内蔵したMCPプロキシを作った",
+      "url": "https://zenn.dev/furu04/articles/fcd889d8eb7826",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T15:25:14+00:00",
+      "summary": "はじめまして。 本記事が初投稿なのでまず数行自己紹介。 情報系学生 IPA IP/FE/AP/SC TOEIC L&R IP 770 詳細は個人サイトのAboutを見てください。 さて、本題ですがタイトルの通りです。 当方は自分の使いたいなーと思うものを個人開発することが多く、その中でFocusZooというWebサービスがあります。 予定を細かく登録するタイムボクシングという時間管理法だったり、ToDoや一日の振り返りを記録できる 生産性向上のためのオールインワンプラットフォームを目指しています。 タイムボクシング自体はこちらの記事を見るとすぐ分かるかと思います。 で、当然..."
+    },
+    {
+      "title": "【書評】 Kubernetes: Up and Running",
+      "url": "https://qiita.com/io0323/items/3c6cbeee6c124b83fbd1",
+      "source": "Qiita（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-10T15:00:11+00:00",
+      "summary": "はじめに Kubernetesを業務で触っていると、kubectl apply は打てるのに「なぜこのオブジェクトが必要なのか」を説明できない、という状態に陥りがちです。PodとReplicaSetとDeploymentの関係を暗記はしているけれど、それがなぜ3層に分かれ..."
+    },
+    {
+      "title": "Flutter Web の CanvasKit と skwasm、実測して比較してみた",
+      "url": "https://zenn.dev/amam96/articles/flutter-web-canvaskit-vs-skwasm",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T14:55:41+00:00",
+      "summary": "TL;DR 初回ロードは skwasm の方が軽くて速い(転送量 4.0MB vs 4.8MB、全リクエスト 完了 795ms vs 1.19s) ランタイム性能は一方的ではない: build(ウィジェットツリー構築)は skwasmが、raster(実際の描画)はCanvasKitが、3シナリオ全てで一貫して 優位。総合fpsはどちらの処理が支配的かで勝敗が変わる 今回のベンチアプリでは、raster寄りの処理(DataTableスクロール・画面 遷移)はCanvasKitが、build寄りの処理(フォーム入力)はskwasmが 総合fpsで上回った おまけ: --wasm ビル..."
+    },
+    {
+      "title": "本番で壊れたAIエージェント — 失敗と対策の実践書",
+      "url": "https://zenn.dev/toyo_lab/books/ai-agent-failures",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T14:41:49+00:00",
+      "summary": "ハードを出荷し実マネーを張る人間が、AIエージェントを本番運用して踏んだ失敗を、製造業の不具合報告書（作りこみ／流出の二軸）で解剖し、再発防止までを示す実践書。v1は失敗台帳（35件）から主要10章を早出しし、更新で拡張。"
+    },
+    {
+      "title": "Prometheus実践ガイドをやってみました！",
+      "url": "https://zenn.dev/malzy/articles/c596d61da367d6",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T14:28:47+00:00",
+      "summary": "かつて、私は、今となっては日本のZABBIXの第一人者である寺島 広大氏の当時の記事を元に、主要なOSS監視システムを検証して、長らくZABBIXを愛用していました。 だいぶ前の記事です。 https://thinkit.co.jp/free/article/0706/21/1 使い始めたのはVer1.4～Ver2系ぐらいまで、その後少しVer4系を触った気もしますが、監視系業務を離れていたので、うろ覚えです。 AIに聞いたところ、オンプレからクラウド化が進む中で、クラウドネイティブ向けの監視システムはZABBIXではないと知り、時代についていかねばと、焦っていまして、書店に向かい、 P..."
+    },
+    {
+      "title": "Windows 11 上へ WSL2（Ubuntu）+ Docker Engineをセットアップする方法",
+      "url": "https://zenn.dev/tanakari/articles/2026-08-08_setup-wsl-docker",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T14:17:23+00:00",
+      "summary": "はじめに Windows 11上にWSL2 + Ubuntuを用意し、そのUbuntuへDocker Engineをインストールします。 この環境は、後続の記事で構築するローカルAI環境のベースとして使用します。 今回はDocker Desktopを使わず、以下の構成を作ります。 Windows 11 └─ WSL2 └─ Ubuntu └─ Docker Engine ├─ Docker CLI └─ Docker Compose Plugin 最終的に、Ubuntu上で以下が実行できれば完了です。 docker run hel..."
+    },
+    {
+      "title": "Microsoft Entra ID のカスタムドメインとして Azure DNS で管理しているドメインを追加してみた",
+      "url": "https://dev.classmethod.jp/articles/entra-id-custom-domain-azure-dns/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T14:05:36+00:00",
+      "summary": "Microsoft Entra ID のカスタムドメイン追加設定を、Azure DNSのパブリックゾーンを使用して試してみました。"
+    },
+    {
+      "title": "【2026年8月最新】Claude（デスクトップアプリ版）の有料プラン（Pro）を解約・キャンセルする方法",
+      "url": "https://qiita.com/wa-chan222/items/975a5d1af080600d582b",
+      "source": "Qiita（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T14:01:39+00:00",
+      "summary": "はじめに Claudeのデスクトップアプリ版において、有料プラン（Proプラン）の自動更新を停止（キャンセル）する手順をまとめました。 筆者自身の備忘録を兼ねていますが、同じように解約方法を探している方の参考になれば幸いです。 ⚠️ ご注意 本記事の内容は 2026年8..."
+    },
+    {
+      "title": "学生のためのクレジットカード入門 #クラウド入門の準備",
+      "url": "https://zenn.dev/jun1013/articles/f16ca4e76e4934",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T13:30:31+00:00",
+      "summary": "はじめに 夏休みにクラウドサービスを使い始めたいのですが、デビットカードもクレジットカードも持っていないためアカウント登録ができません。そこでカードの選定から始めます。 この記事では、クラウドサービスの支払いに適したカードの条件と、申し込み時・運用時の確認項目をまとめます。対象は学生、サービスはAWSを中心に扱います。 カードについて知ろう デビットカードは、決済した時点で紐づけた銀行口座から引き落とされます。カード会社による立て替えがないため、口座残高を超える決済はできません。申込可能年齢は発行元により異なり、15歳または16歳以上が一般的です。 クレジットカードは、カード会社..."
+    },
+    {
+      "title": "GitHub Actions OIDCでNot authorizedが消えない時に疑うべきImmutable subject claims",
+      "url": "https://zenn.dev/aws_iac_notes/articles/fc8f3d2e90b833",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T13:04:18+00:00",
+      "summary": "1. はじめに GitHub ActionsからTerraform planを実行する際、OIDC連携でAWSのロールを引き受けようとしたところ、以下のエラーで失敗しました。 Run aws-actions/configure-aws-credentials@v4 Assuming role with OIDC Assuming role with OIDC （中略、複数回リトライ） Error: Could not assume role with OIDC: Not authorized to perform sts:AssumeRoleWithWebIdentity 本記事では..."
+    },
+    {
+      "title": "VLC media playerでApple Silicon Macの快適なBlu-ray再生環境をタダで構築 - Qiita",
+      "url": "https://qiita.com/y-vectorfield/items/889eef420b9224f5421a",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T12:57:52+00:00",
+      "summary": "この記事について Apple SiliconのMacで快適にBlu-rayを再生する環境をOSSのVLC media playerで構築する方法について紹介します。 事の起こり MacでBlu-ray再生環境としてMacgo Mac Blu-ray Player Proを愛用してきました。しかし、このアプリはIntel Mac専用アプリであり、Rosetta 2経由で動作しています。これまで特に..."
+    },
+    {
+      "title": "ロースペックPCでローカルLLM家計簿を作ったら、LLMの仕事がどんどん減った話",
+      "url": "https://zenn.dev/taikikei/articles/412dec52461cb2",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T12:32:05+00:00",
+      "summary": "はじめに 毎月の支払い明細をローカルLLMに読ませて、家計の状況を説明してもらう環境を作りました。銀行・クレジットカード・交通系ICの明細を1つに統合して集計し、その結果をローカルのLLMに渡す、という構成です。 ローカルLLMがどれだけの性能か見たい＋外部に出したくないデータの処理・集計をやりたいというのが出発点なので、クラウドのAPIは使っていません。手元のミニPC（Intel N100 / メモリ16GB）で Ollama を動かし、3.7B クラスのモデルに喋らせています。月1回のバッチ運用なので、処理時間は問いません。 この記事は、その設計で一番大きかった判断——集計をLL..."
+    },
+    {
+      "title": "Claude Code のコンテキスト管理術 — /compact・/clear・/context を使いこなしてトークンを節約する実践テク",
+      "url": "https://zenn.dev/shohei_ai_lab/articles/590127884a4284",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T12:19:39+00:00",
+      "summary": "はじめに — コンテキスト溢れは全員が直面する問題 Claude Code を使い込んでいると、必ず遭遇する壁がある。コンテキストウィンドウの枯渇だ。 大規模なリファクタリングの途中で突然 Claude の応答が遅くなる。ファイルを読んだはずなのに「そのファイルの内容を確認させてください」と聞き返される。あるいは、セッション冒頭で伝えた方針を忘れたかのような提案が返ってくる。 これらはすべて、コンテキストウィンドウが限界に近づいているサインだ。 Claude Code には、この問題に対処するための専用コマンドが用意されている。しかし、単に「/compact を打てばいい」という話で..."
+    },
+    {
+      "title": "「Azure OpenAIは30日で消える」の出典を確認したら、現行の公式ページに「30日」が1回も出てこなかった",
+      "url": "https://qiita.com/17jikaeru/items/7d0022ace542ebc0109d",
+      "source": "Qiita（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T11:49:53+00:00",
+      "summary": "社内資料に「Azure OpenAI は不正監視ログを最大30日保持」と書いていました。出典のURLを貼ろうとして現行の公式ページを開いたら、本文に 30 days が1回も出てきませんでした。 確認したのはこの2ページです。 Data, privacy, and se..."
+    },
+    {
+      "title": "非エンジニアがAIで個人開発するのは\"甘え\"なのか、ちゃんと考えてみた",
+      "url": "https://zenn.dev/zavier/articles/8ff7b26d548147",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T11:47:02+00:00",
+      "summary": "「AI使う自分ズルくない?」って、一人で悩んでいた話 最近、個人開発でClaude Codeを使いまくっている。 Goでカレンダーアプリを作ったり、React Nativeで歩数をRPGの進行度に変換するアプリを作ったり。動くものがどんどん増えていくのは普通に楽しい。 でもある日、ふと冷静になった瞬間があった。 「周りはみんな自分の力だけでゴリゴリ実装してるのに、自分はAIに頼ってばっかりで、大したゲームも作れてないな…」 そこから一人で内心考え始めた。SNSで「フルスクラッチで〇〇作りました」みたいな投稿を見るたびに、地味にわーとくる。自分の実力で作ってないんじゃないか、みたいな感..."
+    },
+    {
+      "title": "秋田県幹部職員が喫煙しながらバスローブでオンライン報道対応 「自宅」との説明に疑義……背景はラブホ客室のよう",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000489/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T11:37:40+00:00",
+      "summary": "秋田県は、オンラインで報道対応していた産業労働部企業誘致推進監（課長級）の男性が、バスローブのような姿で喫煙するなどの不適切な行動をしたと明らかにし、謝罪した。8月7日の記者会見で、推進監が対応した場所を「自宅」と説明していたが、疑義が生じたため、10日もさらに事実確認を進めている。 オンライン報道対..."
+    },
+    {
+      "title": "Microsoft Sentinel「Defender XDR」コンテンツパックを統合時代の視点で整理してみた",
+      "url": "https://zenn.dev/microsoft/articles/defender-xdr-sentinel-connector",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T11:17:58+00:00",
+      "summary": "はじめに Microsoft Sentinel の Content hub には Microsoft Defender XDR というコンテンツパックがあります。名前から「Defender XDR 用の分析ルール集だろう」と思って中を開くと、ちょっと意外な構成になっています。 実は、このコンテンツパックの主役は分析ルールではなく、データコネクタです。そして「分析ルールはほとんど使わず、コネクタによる連携だけで運用している」という環境がかなり多いのですが、これは決して手抜きではなく、Defender XDR の設計上、理にかなった使い方でもあります。とくに Defender ポータルに..."
+    },
+    {
+      "title": "AI時代に便利な git diff ビューアーを作ったので紹介する",
+      "url": "https://zenn.dev/sukechannnn/articles/5a1bf6f01491c5",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T11:04:43+00:00",
+      "summary": "こんにちは、ソフトウェアエンジニアをしている @sukechannnn です。 AIに書いてもらったコードの差分をローカルで確認するのって、皆さんどうやってますか？ 以前は git diff で見てたのですが、自分が書いてないコードの差分が大量にあるのを git diff で見るのが大変という課題感から、ターミナルでサッと見れるTUIツールを作りました。 「giff」といいます。 https://github.com/sukechannnn/giff 1年くらい開発してきていい感じになってきたので、紹介してみます。 開発のモチベーション 僕は以前から、ある程度動くまで開発を進めてから..."
+    },
+    {
+      "title": "DatadogのBits Chatが開発組織にもたらしたもの / What Bits Chat Has Brought Us",
+      "url": "https://speakerdeck.com/sms_tech/what-bits-chat-has-brought-us",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-10T10:27:14+00:00",
+      "summary": "Japan Datadog User Group Meetup#20@札幌 https://datadog-jp.connpass.com/event/389998/"
+    },
+    {
+      "title": "【AZ-104備忘録シリーズ】ネットワーク",
+      "url": "https://qiita.com/keishiro-kgm-0516/items/01c3cca1a7006fcb4692",
+      "source": "Qiita（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T10:20:00+00:00",
+      "summary": "初めに az104の模擬試験でわからなかったことをつらつらまとめています。 間違等があったらご指摘いただけたら嬉しいです Azureのネットワークサービス よく見かけるのはこの辺 Virtual Network Network Interface(NIC) Netwo..."
+    },
+    {
+      "title": "S3 VectorsのRAGパイプラインを作り直している話（応答編）",
+      "url": "https://zenn.dev/kawasemi_jp/articles/rebuilding-rag-pipeline-answering",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T10:14:17+00:00",
+      "summary": "この記事について 前編では、文書を取り込む側のパイプラインについて書きました。 https://zenn.dev/kawasemi_jp/articles/rebuilding-rag-pipeline-ingest この記事はその後編で、質問を受けてから回答を返すまでの応答側を扱います。 検索をどう絞っているか、生成された回答に出典にない条項番号が混じっていないかをどう確かめているか。 この二つが中心です。 前編と同じく、設定値やコードそのものは書きません。 応答側は動いていますが、いまも手を入れている最中で、ここに書いた値がそのまま残る保証がないからです。 書くのは設計の考えかた..."
+    },
+    {
+      "title": "OpenTelemetry で Opus 5 と Sonnet 5 の Effort level の効き方を明らかにした（#33）",
+      "url": "https://zenn.dev/nnakapa/articles/lab-33-otel-trace-opus5-sonnet5",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T10:14:02+00:00",
+      "summary": "2つの発見 1. Opus 5 は「思考回数」と「1 リクエストの長さ」の両方を増やす（回数 約 2倍 × 長さ 約 2倍） 2. モデルを替えても CLI の処理時間は変わらない——実行時間の差は「API 応答待ち」（占有率は Opus 5 が 91.6% / Sonnet 5 が 87.2%） はじめに 前回（#32）は OpenTelemetry（以下、OTel）の trace を使って Sonnet 5 の時間の使い方を解剖し、実行時間の大半は「API の応答待ち」であることなど、手作りのデータ収集の仕組みでは見えなかったことが明らかになりました。その末尾で残した宿題が..."
+    },
+    {
+      "title": "ITの会社を潰してから兄はずっと実家にいる",
+      "url": "https://anond.hatelabo.jp/20260810185534",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T10:00:55+00:00",
+      "summary": "俺にはITの技術者だった兄がいる。 昔からパソコンに詳しくて、IT系の大学を出てIT企業に就職していた かなり優秀でシゴデキだったようで兄は若くしてリーダーのようなポジションにまでなっていたらしい。 兄は結婚をした、綺麗な嫁さんだった。子供も生まれた。 しばらくして兄は起業することになってITの会社の経営者..."
+    },
+    {
+      "title": "韓国発の次世代スリープテック「Sleepisol＋」を試す すんなり二度寝ができるようになった",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T09:55:35+00:00",
+      "summary": "また疲れていても無理をして出社し、睡眠を理由として病欠しないという傾向が強く見られる。これは、心身が不調なまま仕事をすることで労働パフォーマンスが低下している、WHO（世界保健機関）によって提唱されている「プレゼンティーズム」という状態にあるという。 最近よく眠れないが、病院に行く時間がない、有給を..."
+    },
+    {
+      "title": "【備忘録】AIで編集しやすいWBSの作り方 - 機能軸・工程軸で工数を集計するMarkdown表 - Qiita",
+      "url": "https://qiita.com/Tadataka_Takahashi/items/6be2bf42e6b9751accc8",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T09:48:20+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに WBS（作業分解構成図）をスプレッドシートで管理していると、こんな場面に出くわします。 セル結合と色分けが増えて、作った人以外が触れなくなる 差分が追えないので、「..."
+    },
+    {
+      "title": "「URLを入力するだけ」の診断ツールを作ったら、自分がSSRFの入り口になりかけた話",
+      "url": "https://zenn.dev/boostertech/articles/bf08867486bddc",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T09:12:24+00:00",
+      "summary": "はじめに 株式会社ブースターテクノロジーの土屋です。無料のWebサイト脆弱性診断ツール「セキュリティブースター」の売りは「URLを入力するだけ」というシンプルさです。 ただ、これを作りながら気づいたことがあります。「ユーザーが入力した任意のURLに対してサーバーがリクエストを飛ばす」という機能そのものが、SSRF（Server-Side Request Forgery）の典型的な入り口の形をしています。診断対象のサイトのSSRFを見つけるツールを作っていたはずが、作っている自分自身がSSRFの当事者になりかけていた、という話です。 何も対策しないと何が起きるか 診断ロジックの中に..."
+    },
+    {
+      "title": "Agent Plugins 1.0.0 は何を標準化し、何を標準化しなかったのか",
+      "url": "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T09:06:44+00:00",
+      "summary": "はじめに こんにちは、 AWS Japan でソリューションアーキテクトをしているいなりくです。 2026 年 8 月 6 日、AI エージェントの拡張機能をパッケージングするオープン標準 Agent Plugins Specification 1.0.0 が公開されました。 OpenAI が AWS・Cursor・GitHub・VS Code・Vercel とともに策定したもので、発表ポストは公開から 1 日で 110 万ビューを超えたと報じられています。 OpenAI からは紹介動画も公開されています。 https://x.com/OpenAIDevs/status/208539..."
+    },
+    {
+      "title": "Cloudflare OSをVRAM 8GBのゲーミングPCで動かしたら、三目並べ1個に5ラウンドかかった話",
+      "url": "https://zenn.dev/akari1106/articles/20109e62a4b8b7",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T08:59:48+00:00",
+      "summary": "はじめに 2026年8月、CloudflareがCloudflare OSをオープンソース化しました。 社内で数千人が使っているAIエージェント環境をまるごと公開する、というやつです。ドキュメントを書き、アプリを作り、業務を自動化する。それを「自社のCloudflareアカウントにデプロイできますよ」という売り方をしています。 https://bl..."
+    },
+    {
+      "title": "# AI機能の月額を試算したら、利用者10万人で80万円だった",
+      "url": "https://zenn.dev/airu0813/articles/ab82c3c483798a",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T08:36:48+00:00",
+      "summary": "アプリ開発を受託しています。専門教育は受けておらず、AIに指示を出しながら作っています。 開発中のアプリで「AIが毎回ちがう文章を生成する機能を入れたい」という要望が出ました。技術的にはできます。ただ、試算して初めて気づいたことがありました。 この手の機能は、利用者が増えるほど月額が上がり続けます。 書いてしまえば当たり前ですが、私は分かっていませんでした。同じように分かっていない人（発注する側も、受ける側も）は多いと思うので、試算の過程をそのまま書きます。 ! 本記事の金額はすべて2026年8月時点の公開価格をもとにした概算です。実際の請求額は文章量・利用状況・モデルの選択で変動します..."
+    },
+    {
+      "title": "Claude Code運用を一元化する「Claude apps gateway」発表 企業利用をどう管理？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news045.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T08:32:33+00:00",
+      "summary": "Anthropicは2026年6月29日（米国時間）、企業がAIコーディングエージェント「Claude Code」を「Amazon Bedrock」や「Google Cloud」で運用するための管理基盤「Claude apps gateway」（Claudeアプリゲートウェイ）を発表した。 従来、Amazon BedrockやGoogle CloudでClaude Codeを利用するには、開発者ごとにクラウド認..."
+    },
+    {
+      "title": "マイクロソフト、知らないうちに写真管理アプリを追加 消すにはOneDriveごと削除が必要 報道",
+      "url": "https://ascii.jp/elem/000/004/426/4426228/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T08:24:58+00:00",
+      "summary": "マイクロソフトが8月に入り、ベータ版の個人向け写真管理アプリ「OneDrive Photos」をテスター以外のユーザーに誤配信していたことがわかった。海外メディアWindows Latestが8月9日付で報じている。 報道によると、マイクロソフトは8月1日以降、本来は配信対象外の一般の「Windows 11」ユーザーに同アプリの展開を開始。..."
+    },
+    {
+      "title": "Claude CodeがAIエージェントを後から繋げられるようになった話",
+      "url": "https://zenn.dev/lancers/articles/1125e91b5304e2",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T08:17:47+00:00",
+      "summary": "複数の Claude Code を並行で走らせている人なら、たぶん一度は思ったことがあるはずです。 🤨 「そっちが今調べたこと、こっちの実装にも反映してほしいんだけど」 最近 Claude Code で導入されたcross-session messagingは、まさにここに効く機能だと思ってます。 そしてこれは「便利な新機能がひとつ増えた」という以上に、AIエージェントの組み方の選択肢が増えた話だとも思っています。 同じことをOSSやMCPで実現していた方は以前からいたようですが、 公式が乗ってきたことで、この方向性が一気に人目に触れるようになるといいなぁという気持ちです。 発端 ―..."
+    },
+    {
+      "title": "[アップデート] AWS Glue Data Quality の新しい FIXED モードによる異常検知を試してみました",
+      "url": "https://dev.classmethod.jp/articles/20260810-aws-glue-dq-anomaly-detection/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T08:10:52+00:00",
+      "summary": "AWS Glue Data Qualityの異常検知が追加料金なしで利用できるようになり、誤検知を減らす新しいFIXEDモードが追加されました。実際にマネジメントコンソールから試してみた結果をご紹介します。"
+    },
+    {
+      "title": "[アップデート]AWS IAM Identity CenterによるAWSアカウントのアクセス管理がオプションとなり、アプリケーションへのアクセス専用で使えるようになりました",
+      "url": "https://dev.classmethod.jp/articles/aws-iam-identity-center-aws-account-access-management-has-become-option/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T07:37:51+00:00",
+      "summary": "AWS IAM Identity Centerの最新アップデートで、AWSアカウントへのアクセス管理を無効化して作成にできるようになりました。これによりAWSアカウントの権限管理は不要でAWSマネージドアプリケーション外部とのSAML連携のみに利用したい場合にシンプルな設定で活用できるようになりました。"
+    },
+    {
+      "title": "cmux × claude --worktree で爆速並列開発 〜疎結合とシンプルさがコツ〜",
+      "url": "https://zenn.dev/yamitake/articles/cmux-claude-worktree-parallel-dev",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T07:37:00+00:00",
+      "summary": "はじめに AIコーディングエージェントを使っていると、こんな欲が出てきます。 1つのタスクをエージェントに投げている間、別のタスクも同時に進めたい。 人間が1つずつ順番に見ている限り、エージェントがどれだけ速くても待ち時間が生まれます。そこで効いてくるのが「複数のエージェントを並列で走らせる」というアプローチです。 この記事では、git worktree をベースにした claude --worktree と、複数セッションをまとめて管理する cmux を組み合わせた並列開発のやり方を紹介します。あわせて、並列で走らせても事故らないためのコツ（PRで触る領域をぶつけない・そもそも..."
+    },
+    {
+      "title": "OpenTelemetryではじめるテレメトリーサンプリング | 技術評論社",
+      "url": "https://gihyo.jp/book/2026/978-4-297-15813-2",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T07:20:21+00:00",
+      "summary": "概要 オブザーバビリティの重要性が高まる一方で、導入後に直面するテレメトリーデータの爆発的増加というジレンマを抱えたチーム、組織は多いのではないでしょうか。分散トレーシング、メトリクス、ログなどの計装が充実するほどデータ量は膨張し、ストレージコストの増大、分析基盤の複雑化、重要なシグナルの埋没とい..."
+    },
+    {
+      "title": "AIが変えた震災支援……熊本の被災者がスマホで作った「イマココナビ」活況 “乱立”に課題も",
+      "url": "https://www.itmedia.co.jp/news/article/2608/10/2000000486/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T07:09:14+00:00",
+      "summary": "ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は2026年08月01日から08月07日までの7日間について集計し、まとめた。 先週のアクセス1位は、7月28日の熊本地震の発生時、熊本総合病院（八代市）で行われていた手術の様子をとらえた映像の記事だった。機..."
+    },
+    {
+      "title": "加判役をサーバーへ置き、CodexとClaudeで承認済みナレッジを共有する",
+      "url": "https://zenn.dev/surugawannoebi/articles/kahanyaku-self-hosted-workflow",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T06:41:43+00:00",
+      "summary": "AIエージェント向けナレッジに、人間の承認フローを持ち込むOSS「加判役（Kahanyaku）」を作りました。 前の記事では、なぜdraft → review → verifiedという境界が必要なのかを書きました。 今回は、その加判役を小さなサーバーへ置き、CodexとClaudeから同じ承認済みナレッジを使うまでの流れを説明します。 この記事のゴールは、次の最小ループです。 Codex / Claude ↓ 検索、draft・更新案の起案 HTTPS + access control ↓ Kahanyaku MCP + SQLite ↑ 人間がCLIでrev..."
+    },
+    {
+      "title": "Metaによるメンタルヘルス被害を「工場の公害」で説明、米ニューメキシコ州が5億6700万ドルの支払い命令",
+      "url": "https://internet.watch.impress.co.jp/docs/news/2131937.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T06:10:20+00:00",
+      "summary": ""
+    },
+    {
+      "title": "OpenTelemetry で Claude Code × Sonnet 5 の時間の使い方を解剖した（オトナの自由研究 #32）",
+      "url": "https://zenn.dev/nnakapa/articles/lab-32-otel-trace-sonnet5",
+      "source": "Zenn（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-10T05:17:51+00:00",
+      "summary": "3つの発見 1. 実行時間の 87.2% は「API の応答待ち」——Pi 5 は、ほとんど仕事をしない（全 120 run の中央値） 2. ローカルの仕事はわずか約 3秒——ツール実行も CLI 処理も、effort level やタスクに関係なく必要な時間 3. Sonnet 5 の effort level は「思考回数」（= LLM リクエスト数。以下同じ）を増やさず「1 リクエストの長さ」を伸ばす——思考回数は 4〜5回でほぼ不変、1 リクエストは最大約 2.3倍 はじめに 前回（#31）セットアップした OpenTelemetry（以下、OTel）の traces..."
+    },
+    {
+      "title": "Geminiとの会話でGoogleマップを検索できる「マップに相談」、国内でも提供開始",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2131967.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T05:12:08+00:00",
+      "summary": ""
+    },
+    {
+      "title": "ExtendDB：DynamoDB互換のオープンソースアダプターを試してみた",
+      "url": "https://zenn.dev/kameoncloud/articles/8ba2e3563aa5dd",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T04:40:34+00:00",
+      "summary": "https://serverless.co.jp/blog/81an1c5tpe18/ に投稿した記事の微修正版です。 AWSが2026年5月にオープンソースプロジェクト「ExtendDB」を公開しました。一言で言うと、DynamoDBのAPIをそのまま使いながら、PostgreSQLなど別のストレージで動かせるアダプターです。 なぜExtendDBが生まれたのか Amazon DynamoDBはAWSを代表するNoSQLデータベースです。高速で使いやすく、多くのチームがDynamoDBを中心にアプリケーションを構築しています。しかしその分、DynamoDBへの依存度も高くなります。..."
+    },
+    {
+      "title": "FIREして会社を辞めたはずの元上司が会社に戻ってきた",
+      "url": "https://anond.hatelabo.jp/20260810132143",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T04:31:21+00:00",
+      "summary": "最近、FIREした自慢がネットで多いけど、あれ99％嘘だろうな、と思う時がある。 IT企業でエンジニアとして働いているのだが、特にIT系ではFIREしたいとか投資でFIREするとかそういうのを口にする奴らは多い、特に若手が多いのだが。 前勤めていた会社で上司で先輩だった人も、そうだった。 FIREして会社を辞めたはずなの..."
+    },
+    {
+      "title": "Weekly AWS アップデート情報 - 2026年8月10日",
+      "url": "https://zenn.dev/softbank/articles/93183c97bceaf3",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T04:19:26+00:00",
+      "summary": "皆さま、こんにちは。 Weekly AWSでは、毎週 AWS プロダクトのアップデート情報をお届けしています。 それでは、先週 (8月3日～9日) の主な AWS アップデート情報を紹介します。 今週の注目アップデート AWS Security Hub Extended に10番目のカテゴリとしてサプライチェーンセキュリティが追加 AWS Security Hub Extended プランに、10番目のセキュリティカテゴリとして「サプライチェーンセキュリティ」が追加され、パートナーとして Chainguard と Socket が加わりました。 今回のアップデートにより、アプリ..."
+    },
+    {
+      "title": "ロボタクシー「Zoox」がラスベガスで商用利用開始。昨年 re:Invent で無人の公道走行を体験したときを振り返ってみる",
+      "url": "https://dev.classmethod.jp/articles/zoox-paid-robotaxi-las-vegas/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T04:12:00+00:00",
+      "summary": "ハンドルもペダルも無い Zoox のロボタクシーが、ラスベガスで商用利用を開始しました。鍵は FMVSS への適合ではなく NHTSA Part 555 の適用除外です。官報の原典を読みながら、昨年の乗車体験と併せて整理します。"
+    },
+    {
+      "title": "AWS Well-Architected Framework 入門：パフォーマンス効率の柱を S3 + CloudFront でハンズオンしてみた",
+      "url": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-05/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T04:06:21+00:00",
+      "summary": "AWS Well-Architected Framework を学ぶシリーズ第 5 回で、今回はパフォーマンス効率の柱を扱います。S3 の静的サイトを CloudFront でキャッシュ配信し、応答速度の変化を実際に計測することで体感します。"
+    },
+    {
+      "title": "Cloud Loggingで「SA鍵が作られたら検知」―監査ログ検索をSentinel/KQL目線で",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-cloud-logging-detect-sakey",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-10T03:41:19+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。今回は、Azure で Sentinel / Log Analytics（KQL） を触ってきた人ほど馴染みやすい可観測性。テーマは「サービスアカウント鍵が作られたら検知する」——このシリーズでずっと「鍵を作るな」と言ってきたので、その\"見張り役\"を作ります。 道具は Cloud Logging / Monitoring。監査ログを検索（無料）→ 構造化ログ → log-based metric → アラート、と段階的に。Azure Monitor / Log Analytics / Sentinel との対応..."
+    },
+    {
+      "title": "はじめてのKiroCrew — インストールからユースケースまで、触って理解する",
+      "url": "https://zenn.dev/tanukiman/articles/cc293d28f7acd1",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T02:49:56+00:00",
+      "summary": "筆者について こんにちは！tanukiman_you です。福岡在住、Cloud Infra GでAWSを中心にクラウドの設計・構築・運用に携わっています。福岡でもいろいろ活動中です。キャリアはバックエンド（Java開発）→自社クラウド環境整備・通信系インフラ→現在はクラウドインフラ業務、という流れで進んできました。趣味は特にこれというほどのものはないですが、映画・ゲーム・本・テック系全般が好きです。 この記事について 2026年8月8日（土）に開催された JAWS-UG長崎 #1「AI時代の仕様駆動開発を体験しよう」 のLTで「KiroCrew触ってみた」という発表をした際に調..."
+    },
+    {
+      "title": "macOS 15系でRancherDesktop使ってたらDockerが起動しなくなった",
+      "url": "https://zenn.dev/levtech/articles/dont-upgrade-rancher-desktop",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T02:45:05+00:00",
+      "summary": "これはなに こんにちは、レバテック開発部のもりたです。 わたしの所属するチームではRancherDesktopというDockerのツールを使ってローカル環境を構築しています。ただ、昨日ローカル環境のvolumeを削除したところDockerが立ち上がらなくなってしまいました。 rosetta error: unhandled auxillary vector type 29 エラーコードを見る感じ、原因は割と深い場所にありそうです。VMとかなんも知らん人間なのでちょっと苦手意識があったのですが、これを機に整理してみました。 記事の構成 記事の構成 前提：やさしい用語解説 問題 解..."
+    },
+    {
+      "title": "OpenBao内部CAとcert-managerでMailpit SMTPをTLS化",
+      "url": "https://zenn.dev/chaokovsky/articles/openbao-internal-ca-mailpit-tls",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-10T02:40:07+00:00",
+      "summary": "最終確認日：2026-08-10（Asia/Tokyo） 本文は、実際に稼働している Kubernetes Homelab の構成を読み取り専用で確認し、当日の作業を再構成した記録です。秘密鍵、OpenBao Token、Recovery Key などの機密情報は掲載しません。 前回の記事「Kubernetes で OpenBao と SoftHSM2 を組み合わせる：PKCS#11 Auto-Unseal と Mailpit への Secret 注入」で構築した OpenBao を前提にしています。本文の Root CA を OpenBao 内に置く構成は Homelab で PKI..."
+    },
+    {
+      "title": "[小ネタ] Amazon Connect は Amazon Connect Customer になっていました",
+      "url": "https://dev.classmethod.jp/articles/amazon-connect-customer-rebrand/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T02:26:28+00:00",
+      "summary": "2026年4月のアップデートで従来の Amazon Connect は「Amazon Connect Customer」に改称されていました。"
+    },
+    {
+      "title": "ローカル開発のHTTPSでハマって学んだ、証明書の「信頼」とリーフ / CA の違い",
+      "url": "https://zenn.dev/kid2ron/articles/f16a3718fed569",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-10T01:41:54+00:00",
+      "summary": "はじめに ローカル開発環境（Kubernetes + 独自ドメインの HTTPS）で、Chrome だけがアプリを開けないという事象にハマりました。 原因を追ううちに、これまでコピペで済ませていたことがようやく腹落ちしました。 そもそも証明書の「信頼」とは何をしているのか リーフ証明書と CA 証明書は何が違うのか キーチェーンに入れるのと、k8s Secret に入れるのは何が違うのか 対象読者は「mkcert や security add-trusted-cert を実行してはいるが、何が起きているかは説明できない」人です。少し前の私がそうでした。 環境は macOS 26 ..."
+    },
+    {
+      "title": "なぜ日本の生成AI活用は成果が出ないのか。NTTデータが示した「3つの壁」と打開策 | Business Insider Japan",
+      "url": "https://www.businessinsider.jp/article/2608-nttdata-agentic-workplace-transformation/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T01:10:23+00:00",
+      "summary": "AIが成果につながらない3つの壁生成AI活用の推進度合い（左）と、活用で得られた財務還元の6カ国比較。撮影：石井徹冒頭の調査で「財務的な還元」と呼んでいるのは、生成AIで生み出した効果を、従業員への利益還元や顧客への価格還元につなげることだ。この比率でアメリカは75％、イギリスは74％に達し、日本の40％を大..."
+    },
+    {
+      "title": "国産10GbEスイッチの新製品が続々投入される中、改めて割安な中華スイッチの価値を見直す【イニシャルB】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2130137.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T01:03:19+00:00",
+      "summary": ""
+    },
+    {
+      "title": "Knowledge Catalog を活用したメタデータ自動付与パイプライン構築",
+      "url": "https://speakerdeck.com/supership/knowledge-catalog-o-katsuyou-shita-metadeta-jidou-fuyo-paipurain-kouchiku",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-10T00:52:39+00:00",
+      "summary": "Supership株式会社 今村豊（プロダクト開発本部 アドテクノロジーセンター 副センター長）によるGoogle Cloud Next Tokyo '26（セッションID: D2-DA-14）の登壇資料です。 広告プラットフォーム事業におけるBigQuery上のメタデータ管理の課題を踏まえ、Google CloudのKnowledge Catalogを軸としたメタデータ自動付与パイプラインの構築事例を紹介しています。国際標準フレームワークCDMC（Cloud Data Management Capabilities）に準拠したデータガバナンス自動化のPoCについて、設計から検証結果までを解説します。 関連情報: https://supership.jp/news/2026/07/02/14473/ ▼一緒に働く仲間を募集中です！ https://supership.jp/recruit/ ▼オープン社内報も毎月更新中！ 社内報：https://super-stories.com/"
+    },
+    {
+      "title": "エージェンティックメッシュ",
+      "url": "https://www.oreilly.co.jp//books/9784814401758/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-10T00:51:41+00:00",
+      "summary": "TOPICS AI/LLM 発行年月日 2026年09月02日 PRINT LENGTH 416 ISBN 978-4-8144-0175-8 原書 Agentic Mesh FORMAT Print 自律型エージェントの台頭に伴い、これからの課題は個々のエージェントの構築方法から、エコシステム全体の管理へと移行しています。本書は、相互に接続されたエージェントが自律的に協調し、トランザ..."
+    },
+    {
+      "title": "Claude チャットと Claude Code でWebサイトを爆速リニューアル",
+      "url": "https://zenn.dev/hchwr01/articles/3eb66618282e17",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T00:35:31+00:00",
+      "summary": "Dockerで運用していたWordPress（WP）サイトをリニューアルしました。 WPからの完全移行（Headless WP化など）はオーバーエンジニアリングと判断し、「メインサイトは Astro でモダンに構築し、ブログ領域のみ /blog 配下として既存の WP を移設・同居させる」というハイブリッドな構成を採用しました。 企画・デザインの壁打ちから指示書作成、実際のコーディングや環境構築までを Claude（チャット） と Claude Code の組み合わせで行い、Teamプラン1アカウントの当日上限70%程度で完成させることができたので、そのプロセスと得られた知見をまとめます..."
+    },
+    {
+      "title": "コネクションをピン留めさせずに SELECTクエリのタイムアウトを設定した話",
+      "url": "https://speakerdeck.com/codmoninc/database-timeout-setting",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-10T00:23:52+00:00",
+      "summary": ""
+    },
+    {
+      "title": "詳細設計書からクロジカの単体サーバー構成をデプロイした話",
+      "url": "https://zenn.dev/kurojica/articles/aaf5db8150849c",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T00:19:01+00:00",
+      "summary": "こんにちは、AI Labの馬場 光希です。 前回では、詳細設計書からAIで dynamic_var.tfvars を生成し、OpenTofuで検証する仕組みを紹介しました。 今回はその続きとして、クロジカで利用している単体サーバー構成を、詳細設計書からデプロイできるようにした内容を紹介します。 ▼ 課題 前回は、詳細設計書の値をOpenTofuへ渡し、個別のリソースを検証するところまで進めていました。 実際の案件では、VPCやSubnet、EC2を個別に作るだけでは足りません。RDSやALBも含めた単体サーバー構成を、ひとつの実行単位としてデプロイする必要がありました。 また、案件ご..."
+    },
+    {
+      "title": "AI開発者が意識すべきツール管理戦略：効率的選定とライフサイクル管理の実践手法",
+      "url": "https://zenn.dev/yutaka8484/articles/kobayashi-20260803-ai-tool-management-strate",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T00:13:30+00:00",
+      "summary": "AI開発のツール管理における課題 AI開発プロジェクトでは、機械学習ライブラリ、データ処理ツール、CI/CDパイプライン、モニタリングシステムなど多様なツールが利用されます。ただし、ツールの選択と運用にばらつきがあると、以下のような問題が生じます。 依存関係の複雑化：特定のバージョンに依存するツールが増えると、環境構築の手間が増加します。 ライフサイクル管理の甘化：更新頻度の違いにより、セキュリティパッチ適用が遅れるリスクがあります。 チーム間の非効率：標準化されていないツールのため、ノウハウの共有が困難になります。 これらの課題を解決するためには、ツール選定と運用のプロセ..."
+    },
+    {
+      "title": "Spring Securityの設定変更でECSデプロイが30分後にタイムアウトした原因と対策",
+      "url": "https://zenn.dev/yamadatt/articles/20260810_spring-security-alb-healthcheck-403",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "summary": "はじめに Spring BootアプリケーションにStripe Webhook用のSpring Security設定を追加したところ、GitHub Actionsを使ったAmazon ECSへのデプロイが失敗しました。 DockerイメージのビルドやAmazon ECRへのプッシュは成功し、新しいECSタスクも起動していました。しかし、デプロイ処理は約30分後にタイムアウトしました。何も起きないログを30分眺めることになって、なかなか消耗しました。 調査の結果、Webhookを公開するために追加した認可設定が、Application Load Balancer（ALB）のヘルスチェッ..."
+    },
+    {
+      "title": "Claude Code の worktree フックで作る使い捨て隔離開発環境",
+      "url": "https://zenn.dev/cilly/articles/claude-code-worktree-isolated-env",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "summary": "コーディングエージェントを使い始めると、作業の単位が「1 日 1 ブランチ」から「同時に 3〜4 タスク」に変わります。エージェントは待ち時間なく次のタスクに移れるので、人間側のボトルネックは「作業場所」になる。1 つのチェックアウトを取り合っていては、せっかくの並行性が死んでしまいます。 git worktree はこの問題の半分を解いてくれます。同じリポジトリから複数の作業ツリーを生やせるので、コードは隔離できる。しかし開発環境はコードだけでは動きません。DB、ポート、dev サーバ、コンテナ——これらは worktree を作っても共有のままです。worktree A で migr..."
+    },
+    {
+      "title": "AIF試験直前、私を何度も裏切ったPrecisionとRecall",
+      "url": "https://zenn.dev/yasutomo7974/articles/aif-exam-precision-recall",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T23:07:33+00:00",
+      "summary": "おはようございます、YASUです。 AWS AI Practitioner(AIF)の試験まで、残り5日になりました。今日は追い込み期の学習ログとして、直近つまずいたポイントを記録しておこうと思います。特に「もう分かった」と思っていたところで足元をすくわれた話です。 結論 評価指標(Precision・Recall・Accuracy)は、AIF試験で最もひっかかりやすいポイントの一つです。計算式や分母の違いで理解しようとすると余計に混乱することもあるので、「問題文のキーワード」で判断する方法に切り替えたところ、一気に安定しました。 Precision(適合率)とRecall(再現..."
+    },
+    {
+      "title": "趣味でKubernetesをやっている者が、KubeCon Japanで基調講演に登壇した話",
+      "url": "https://zenn.dev/yuu7751/articles/08bdb869491623",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T23:02:05+00:00",
+      "summary": "はじめに 2026年7月にパシフィコ横浜で開催された KubeCon + CloudNativeCon Japan 2026 で登壇しました。1日目に Lightning Talk、2日目に基調講演の2本です……そう、なんと基調講演に登壇させていただけました。 当日の基調講演の様子はこちらです。 https://youtu.be/GKZRhTZ59Go IT歴は長くなく、こういったカンファレンスでの登壇は初めてでした。しかも英語がほとんどできない中での英語登壇です。 ひとつ先に書いておくと、基調講演のほうは偶然です。自分から応募したのは5分の Lightning Talk だけで、本..."
+    },
+    {
+      "title": "Snowflake Dynamic tables を使ってIoTデバイスから収集したデータをELTする",
+      "url": "https://zenn.dev/fusic/articles/snowflake-dynamic-tables-for-iot",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T22:30:05+00:00",
+      "summary": "Snowflake Dynamic tables(動的テーブル)は定義されたクエリとターゲットの鮮度に基づいて自動更新されるテーブルを提供する機能です。 AWSでELT(Extract->Load->Transform)を実現しようとするとAWS GlueやAWS Lambdaといったサービスを間に挟む必要があり、構成や設定が複雑化しがちですし、それらのメンテナンスにも一定のコストがかかります。 一方で、動的テーブルはSnowflakeに蓄積したデータをSQLで変換し定期的に別テーブルとして自動更新するため、Snowflake内に完結しますし、楽です。 本記事ではSnow..."
+    },
+    {
+      "title": "Kiro ５兄弟の現在位置を確認してみた",
+      "url": "https://speakerdeck.com/kentapapa/kiro-kyoudai-no-genzai-ichi-o-kakunin-shi-te-mita",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T22:26:02+00:00",
+      "summary": "2026年8月8日時点でのKiro 5兄弟の状況を整理して、新顔のKiro Crewについての説明もしています。"
+    },
+    {
+      "title": "共同著作者に無断で改変したので、2800万円請求します",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/10/news005.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-09T22:25:27+00:00",
+      "summary": "共同著作者に無断で改変したので、2800万円請求します：「訴えてやる！」の前に読む IT訴訟 徹底解説（138）（1/2 ページ） かつての愛弟子にアイデアを授け、斜面安定解析プログラムを開発した研究者。だが愛弟子の所属企業は、コードを書いたのは自社従業員となった愛弟子であり、研究者が提供したのは発案のきっかけ..."
+    },
+    {
+      "title": "Snowflake App RuntimeからAWSのリソースにOIDC (WIF)で安全にアクセスする方法",
+      "url": "https://zenn.dev/jimatomo/articles/1179aedd2f21c9",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T22:00:05+00:00",
+      "summary": "Snowflake App Runtimeに無限の可能性を感じています。 AIの進化で業務で利用するWebアプリを簡単に作ることができる時代になりましたが、それを安全にアクセスしたりするように管理するための基盤を運用していくプラットフォームがなければ安心して使うことができません。 App RuntimeはSnowflakeがその基盤をまるっと管理してくれていて、Snowflakeと同じ認証情報を利用できるので社内アプリのデプロイ先としてはかなり有力な選択肢の一つです。 SCIMで自動でユーザーのプロビジョニングができ、SAMLで認証できるので社内の共通IdPとエンタープライズの要件に合わ..."
+    },
+    {
+      "title": "Terminal-Benchのネットワークを閉じると全滅する理由 —— 採点系のオフライン化と、エージェントからの分離",
+      "url": "https://zenn.dev/takkuhiro/articles/terminal-bench-isolation-tradeoff",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-09T22:00:05+00:00",
+      "summary": "エージェント評価のベンチマークは、エージェントにシェルやネットワークを与えた状態で動かします。権限を与えないと能力を測れないからです。ところがこの権限は、評価されるエージェント自身が採点をごまかす手段 にもなります。タスクを解く代わりに採点スクリプトの側に手を入れて、合格の判定を作ってしまえるからです。 ターミナル操作のベンチマークである Terminal-Bench については、この点が具体的に指摘されています。Berkeley RDIが2026年4月に公開した監査によれば、コンテナから外に出られることを利用すると、1問も解かずに89タスク全部を「成功」にできてしまいます。では、実行ハ..."
+    },
+    {
+      "title": "【2023年のINTERNET Watch】「Wi-Fi 7」解禁や「IOWN 1.0」始動で通信が進化、コロナ禍の行動制限も大幅に緩和へ",
+      "url": "https://internet.watch.impress.co.jp/docs/special/30th/2131097.html",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-09T21:40:37+00:00",
+      "summary": ""
+    },
+    {
+      "title": "AI討論の全ログは渡さない、ラウンド3の出力だけで意思決定メモを作る",
+      "url": "https://zenn.dev/every_ai_recipe/articles/ai-roundtable-decision-memo",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-09T21:08:01+00:00",
+      "summary": "TL;DR 前回の記事で、1つのチャットに5人の役を立ててAIに討論させる「円卓プロンプト」を紹介した。今回はその出力を報告用の1枚に変換する後工程を扱う 討論の全ログ（5ラウンド分の発言）をそのまま次の相手に渡すと、要約でなく丸投げになり読まれない。「合意できた点」「対立した点」「決断の分岐（2択）」の3要素だけを抜き出し、新しいチャットで意思決定メモのフォーマットに変換すると1枚に収まった 同じ会話の続きでメモ化を頼むと、モデルは会話文脈をすでに共有された既知情報として扱い、決定理由の説明を省略する傾向が出た。新しいチャットに切り替えると省略が減った 「選ばなかった選択肢の理由..."
+    },
+    {
+      "title": "【Terraform】Gitリポジトリ構成のベストプラクティス",
+      "url": "https://zenn.dev/kkoch5t2/articles/e5795a3570a433",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T19:32:26+00:00",
+      "summary": "インフラのコード化（IaC）を実現するツールとして広く普及しているTerraformですが、システムの成長に伴い、リポジトリの肥大化や実行時間の増大といった運用上の壁にぶつかることが少なくありません。 私も業務でTerraformを使っており、モノレポで運用しているのですが、最近リポジトリが肥大化しており、徐々にplanにかかる時間が長くなっています。 本記事では、Terraformのリポジトリ戦略（モノレポ vs ポリレポ）と、安全かつ小回りの利く運用を実現するための「State分割」の手法について、私の経験を踏まえて書いていきたいと思います。 モノレポ（Monorepo）とポリレ..."
+    },
+    {
+      "title": "Claude Code環境にAI-DLCを導入したら\"API Error: Your session has expired. Please reauthenticate.\"となりClaude Codeが使えなくなった時の対処法",
+      "url": "https://dev.classmethod.jp/articles/claude-code-api-error-with-ai-dlc/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-09T18:42:58+00:00",
+      "summary": "AI-DLC Workflows 2.0導入後、Claude Codeでセッション切れエラーが発生した問題と、その根本原因・対処法について説明します。エラーメッセージを読むのも大事だけど、本当の原因はそこじゃないときってあるよね。"
+    },
+    {
+      "title": "アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 2 / Academy Camp 2026 Summer: Master Them! Our Independent Research Project with Them—Season 2 DAY2",
+      "url": "https://speakerdeck.com/ks91/academy-camp-2026-summer-master-them-our-independent-research-project-with-them-season-2-day2",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T17:49:34+00:00",
+      "summary": "2026年8月10日(月) 早稲田大学で開催された アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 2 で使用したスライドです。"
+    },
+    {
+      "title": "Kiro Crew の Agent Worlds が可愛いから見てほしい",
+      "url": "https://dev.classmethod.jp/articles/kiro-crew-agent-worlds/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T15:38:17+00:00",
+      "summary": "Kiro Crew に新しく追加された「Agent Worlds」というアプリを有効化して試してみました。実行中のセッションをピクセルアートのキャラクターとして表示し、複数のエージェントの状態を直感的に管理できるツールです。"
+    },
+    {
+      "title": "AWS DevOps Agent のインシデント調査結果を AWS CLI で取得してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-devops-agent-investigation-result-cli/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T15:37:44+00:00",
+      "summary": "AWS DevOps Agent のインシデントレスポンス調査結果を AWS CLI で取得する方法を紹介します。"
+    },
+    {
+      "title": "長年爆発してたMac容量がClaudeくんに救われた",
+      "url": "https://zenn.dev/henohenon/articles/mac-storage-docker-bomb",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-09T15:23:50+00:00",
+      "summary": "TL;DR Macbookの容量が残り1.7GBだった Claudeくんにお願いして調査、Dockerが原因っぽい 消したら27GB空いた。うれしい。 なう こんなことになってる。UnityのフォルダZip化しようとしたら容量が足りなかった。 実は数年ぐらいこういう状態で使ってって、アプリ削除したり動画ファイル削除したりで細かく整理しつつか細く生きてた。まぁサブマシンだからね、テキスト編集とブラウジングができればええねん。 聞いててみる とはいえ辛いのはつらいので、Claude君に聞いてみた それっぽいことを言ってくれてる。 snapshotはなかったのでさらに調査 ..."
+    },
+    {
+      "title": "自作 MCP サーバーに OAuth 2.1 の認可を付ける",
+      "url": "https://zenn.dev/yoshit0oo/articles/mcp-oauth21-keycloak",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-09T15:18:44+00:00",
+      "summary": "はじめに MCP サーバーを自分で書いてみたものの、「これを社内や外部に公開するとして、認証はどうするんだろう」で止まっている方はいませんか。 MCP の仕様を読みに行くと「リモートの HTTP MCP サーバーは OAuth 2.1 + PKCE が必須」と書いてあります。ただ、そこで手が止まりやすいのは、MCP サーバー側で具体的に何を実装するのかが見えにくいからだと思います。トークンを発行するコードを書くのか、それともどこかに任せるのか。この切り分けが付かないまま設計を始めると、だいたい遠回りします。 本記事では、Keycloak と自作の小さな MCP サーバーを Docke..."
+    },
+    {
+      "title": "【書評】Docker: Up & Running",
+      "url": "https://qiita.com/io0323/items/d2eef517bed307854777",
+      "source": "Qiita（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T15:00:38+00:00",
+      "summary": "はじめに 『Docker: Up & Running（Docker：アップ＆ランニング 第3版）』を読み終えたので、設計・アーキテクチャに関心のあるエンジニア向けに、本全体を通した書評としてまとめます。 本書は「docker run の使い方を覚える本」ではありません。も..."
+    },
+    {
+      "title": "Claude Codeの新機能「クロスセッションメッセージング機能」を試してみた",
+      "url": "https://dev.classmethod.jp/articles/claude-code-cross-session-messaging/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-09T14:21:14+00:00",
+      "summary": "Claude Code v2.1.224でデフォルト有効になったクロスセッションメッセージングを試した。送受信・hold/refuse・権限モードのデフォルト挙動・Bedrock非対応まで、手元検証の結果を整理する。"
+    },
+    {
+      "title": "EMR Serverless で大規模データ処理を検証すると何が見えるか",
+      "url": "https://zenn.dev/yuki_aiops/articles/e1d45669d8cc30",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T13:44:45+00:00",
+      "summary": "この記事の内容 大規模データ処理基盤として Amazon EMR Serverless(サーバーやクラスタを自分で管理せずに、Spark・Hiveなどの分散処理を実行できるAWSのマネージドサービス)を検証した。他サービスとの比較ではなく、EMR Serverlessそのものを検証してみて見えた特性と、検証の過程で得た教訓をまとめる。 対象データ規模は100GB程度、1時間に1回のバッチ処理を想定した検証。AWSは触ったことがある前提で、EMR Serverless特有の用語は都度補足していく。 結論 EMR Serverlessは自由度が高い分、検証・運用側の設計をちゃんとやら..."
+    },
+    {
+      "title": "Amazon EKS Provisioned Control Plane、HPA の同期並行処理数が最大40倍に",
+      "url": "https://qiita.com/Haruki-N/items/4cb31f88e5a556f7d349",
+      "source": "Qiita（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T13:39:12+00:00",
+      "summary": "はじめに 2026 年 7 月 28 日、AWS は Amazon EKS の Provisioned Control Plane に対して、Pod オートスケーリングを高速化するアップデートを発表しました。Horizontal Pod Autoscaler(HPA)の同..."
+    },
+    {
+      "title": "OpenBaoとSoftHSM2で学ぶPKCS#11 Auto-Unseal：MailpitへのSecret注入",
+      "url": "https://zenn.dev/chaokovsky/articles/openbao-softhsm2-mailpit",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T12:49:40+00:00",
+      "summary": "最終確認日：2026-08-09（Asia/Tokyo） 本文は、実際に稼働している Kubernetes Homelab の構成を読み取り専用で確認し、当日の作業内容を再構成した記録です。秘密鍵、PIN、Recovery Key、Root Token、SMTP password は掲載しません。 形式の値は自分の環境に合わせて置き換えてください。 SoftHSM2 は学習用のソフトウェア実装です。物理的な耐タンパー性を持つ Hardware Security Module の代替ではありません。また、本文の OpenBao は単一ノード構成であり、本..."
+    },
+    {
+      "title": "【AWS】ノンインフラ出身者がインフラの深淵に挑む：今週の地雷と復盤（FinOps & DB Migration編）",
+      "url": "https://zenn.dev/leo_zhou_cloud/articles/aws-saa-mixed-005",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T10:33:22+00:00",
+      "summary": "インフラ初心者が今週踏み抜いたAWSの地雷まとめ 今週、AWS SAAの設計シナリオに挑戦する中で、実務でも致命傷になりかねない重要な仕様の勘違い（地雷）を踏み抜きました。エンジニアとしての「振り返り」を兼ねて、アーキテクチャの解説と共に資産としてここに記録します。今回はクラウド財務（FinOps）と、レガシーDBのモダナイゼーションにおける罠です。 🚨 地雷ログ：コンピュートの世代交代と割引モデルの境界 1. 遭遇したシナリオと私の誤認 要件: 現在はEC2で24時間365日稼働しているが、1年〜1年半後にはコンテナ化してAWS Fargateへ完全移行する計画がある..."
+    },
+    {
+      "title": "Kubernetes v1.36でWorkload-Aware Schedulingを動かしてみる",
+      "url": "https://qiita.com/tryu___/items/845e304ae74d9c43aebe",
+      "source": "Qiita（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T10:17:29+00:00",
+      "summary": "はじめに 横浜で行われたKubeCon・CloudNativeCon Japan2026にて、SIG Scheduling Update: Transition from Pod to Workload Scheduling のセッションを聞いて内容に興味を持ち、Work..."
+    },
+    {
+      "title": "ChatGPT × Claude Code × Codex × NotionでAI駆動開発を始めてみた",
+      "url": "https://zenn.dev/keisuke1306/articles/01-ai-driven-dev-overview",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-09T10:00:05+00:00",
+      "summary": "導入 この記事は、ChatGPT・Claude Code・Codex・Notionを組み合わせた「AI駆動開発」というテーマで書いている記事の1本です。机上で考えた開発フローではなく、実際に運用しているポートフォリオサイトの改修に適用しながら改善してきた運用を紹介します。 個人開発をしていると、要件整理も、設計も、実装も、レビューも、全部自分でやることになります。当然ですが、これは結構つらいです。特にレビューする人がいないというのは、地味に効いてきます。自分の書いたコードを自分でレビューしても、大抵は「まあいいか」で通ってしまうからです。 私はここ最近、自分のポートフォリオサイトを..."
+    },
+    {
+      "title": "自宅NWにISR4331を導入してみた話",
+      "url": "https://speakerdeck.com/okaits/zi-zhai-nwniisr4331wodao-ru-sitemitahua",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T09:21:30+00:00",
+      "summary": "https://homeserver.connpass.com/event/396955/ にて、野良LTをさせていただいた時のスライドです。（突貫工事）"
+    },
+    {
+      "title": "【OT/ICS】Dockerで証す真の攻撃検知基盤（真戦礼賛編：背景と選定）",
+      "url": "https://zenn.dev/schutzz/articles/517947b66eba09",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-09T07:31:02+00:00",
+      "summary": "はじめに Phase 4 までの学習において防衛網構築を行い、一応の概成となりました。 概成した瞬間に疑問を覚えたため続行となります。 今回から始まる学習は、当初のロードマップには存在しませんでした。4フェーズをかけて組み上げた基盤が完成した直後、その基盤そのものへの疑いから始まっています。 というわけで、「Dockerで証す 真の攻撃検知基盤」、真戦礼賛編と題して始めます。 予定Phaseは７、今回はPhase0からPhase1、Phase2手前のPhase1.5まで、と言ったところでしょうか。 このシリーズは、前作「Dockerで学ぶOT/ICS施設警備システム構築」「Docke..."
+    },
+    {
+      "title": "LambdaのS3アクセスがIAMのIP制限ポリシーで拒否された件",
+      "url": "https://zenn.dev/bamtech1904/articles/20260808_iam-ip-restriction-viaawsservice",
+      "source": "Zenn（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T07:20:00+00:00",
+      "summary": "S3に配置したzipパッケージを利用してLambda関数のデプロイをしようとした際に、IP制限ポリシーが原因で権限エラーが発生したので、今回はその内容を備忘メモとして記録しておきます。 背景 AWSコンソール上からLambda関数を手動デプロイしようとしたところ、以下の権限エラーが発生しました。 An error occurred (AccessDeniedException) when calling the UpdateFunctionCode operation: Your access has been denied by S3, please make sure your..."
+    },
+    {
+      "title": "アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 1 / Academy Camp 2026 Summer: Master Them! Our Independent Research Project with Them—Season 2 DAY1",
+      "url": "https://speakerdeck.com/ks91/academy-camp-2026-summer-master-them-our-independent-research-project-with-them-season-2-day1",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T06:17:34+00:00",
+      "summary": "2026年8月9日(日) 早稲田大学で開催された アカデミーキャンプ2026 夏 「ヤツらを究めろ！ウチらとヤツらの自由研究∼ シーズン2」DAY 1 で使用したスライドです。"
+    },
+    {
+      "title": "OBO フローで実現するAzure AI Search のユーザー権限検索",
+      "url": "https://zenn.dev/headwaters/articles/f337d23397a71d",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-09T05:47:21+00:00",
+      "summary": "執筆日 2026/8/9 概要 Azure AI Search を、サインインしたユーザー本人の権限で検索できるようにするのがゴールです。 アプリ共通のキーで検索するのではなく、「そのユーザーが見てよいものだけを、そのユーザーの資格で読む」形にします。 これを実現するために、Microsoft Entra ID の OBO（On-Behalf-Of / 代理）フローを使います。 構成は次の2アプリに分けます。 フロントエンド（SPA）: ユーザーをサインインさせ、バックエンド API 用のトークンを取得する バックエンド API: 受け取ったユーザートークンを OBO で「..."
+    },
+    {
+      "title": "SRE_PFE から AI ハーネスへ - タイミー新組織の挑戦から探る、AI 時代の運用とキャリアの進化",
+      "url": "https://speakerdeck.com/kazutb/sre-pfe-kara-ai-hanesuhe-taimixin-zu-zhi-notiao-zhan-karatan-ru-ai-shi-dai-noyun-yong-tokiyarianojin-hua",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T05:46:17+00:00",
+      "summary": ""
+    },
+    {
+      "title": "ディープラーニング入門",
+      "url": "https://speakerdeck.com/enakai00/deipuraninguru-men",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T05:44:57+00:00",
+      "summary": "2026年度 TopSE「機械学習概論」コースの一部として使用した講義資料です。 https://www.topse.jp/ja/curriculum-lectures.html"
+    },
+    {
+      "title": "機械学習理論入門",
+      "url": "https://speakerdeck.com/enakai00/ji-jie-xue-xi-li-lun-ru-men",
+      "source": "Speaker Deck",
+      "category": "Speaker Deck",
+      "published_at": "2026-08-09T05:43:36+00:00",
+      "summary": "2026年度 TopSE「機械学習概論」コースの一部として使用した講義資料です。 https://www.topse.jp/ja/curriculum-lectures.html"
+    },
+    {
+      "title": "Route 53 で管理する独自ドメインをさくらインターネットのメールサービスで使ってみた",
+      "url": "https://dev.classmethod.jp/articles/route53-domain-sakura-rental-server-mail/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-09T05:27:48+00:00",
+      "summary": "Route 53 で管理している独自ドメインを使いながら、さくらインターネットのメールサービスでメール運用する方法を実装・検証してみました。DNS設定から送受信確認まで、その手順と設定値をご紹介します。"
+    },
+    {
+      "title": "KCNA-JPを2週間で正答率62%→87%にして合格するまでにやったこと",
+      "url": "https://zenn.dev/koshi/articles/kcna-jp-pass-after-fail",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T04:14:47+00:00",
+      "summary": "KCNA-JP を初受験で不合格になったあと、約 2 週間の対策で正答率を 62% から 87%（+25 ポイント）まで上げて合格しました。 この記事では、不合格になったときの勉強法と、正答率を上げるために変えた対策をまとめます。 想定読者は、コンテナの基礎知識があり、KCNA / KCNA-JP の取得を目指している人です。 この記事で扱う内容 初受験で不合格になったときの勉強法 実際の試験で感じた「問われる深さ」 約 2 週間で正答率を上げるためにやったこと 合格後に振り返って重要だと感じたポイント 前提 試験: KCNA-JP（Kubernetes and Cloud..."
+    },
+    {
+      "title": "【AZ-305】Day1 オンプレADとEntra IDの統合方式を理解する",
+      "url": "https://zenn.dev/tech_shiganai/articles/74d8c61466239a",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-09T03:53:41+00:00",
+      "summary": "はじめに AZ-305（Microsoft Azure Infrastructure Solutions）の学習で、多くの人が最初につまずくのが オンプレミスの Active Directory と Microsoft Entra ID（旧 Azure AD）の統合方式 。 選択肢は PHS（パスワードハッシュ同期）／ PTA（パススルー認証）／ フェデレーション（AD FS） の3つ。試験では「どの要件のときにどれを選ぶか」がシナリオ形式で繰り返し問われる、頻出テーマである。 本記事では丸暗記に頼らず、「なぜその方式を選ぶのか」 という判断の筋道まで踏み込んで整理していく。 そ..."
+    },
+    {
+      "title": "ニッチすぎるUseCaseに対応したKubernetes operatorを作ってみた",
+      "url": "https://zenn.dev/shiv/articles/d7206f464f6ace",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-09T03:21:21+00:00",
+      "summary": "TL;DR Cloud nativeなネットワークアプリの要件に従ってネットワーク機器を自動設定するoperator CNF (Cloud Native Network Function)の為のネットワークを作る方法を考えた この記事について おそらく通信事業者くらいしか困っていないだろう問題について考え、k8s operatorを作って実験してみました。長いです、画像は一部AIを活用しました。（テーマの一貫性などそこそこうまくいきました） 事の発端 今回の実験で想定しているシチュエーションとして、k8s上で動作するネットワークアプリ（自らBGPやBFDを喋って経路交換をする..."
+    },
+    {
+      "title": "AWS認定を1年延長できる維持制度の登録、延長方法について - Qiita",
+      "url": "https://qiita.com/kiwi-dev/items/60dca34eccf785744a1d",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2026-08-09T02:02:54+00:00",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 待望のAWS認定資格の維持制度がベータでリリースされました！ https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/ 2026 年 6 月 2..."
+    },
+    {
+      "title": "S3 を使うアプリケーションをローカル完結で動かすことに全力を注いでみた",
+      "url": "https://zenn.dev/contour_gara/articles/fbc7b9d157bbe2",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-09T01:53:02+00:00",
+      "summary": "この記事は、多摩.dev #4 で行った LT のフォローアップとして書いています LT に入れられなかったことと、訂正をこの記事でやっていくので、まずはスライドをご覧ください。 問題意識の背景 S3 を使うアプリケーションを、本当の S3 を使いながら開発する辛みは何でしょうか？ デプロイしないと動作確認できない 共有のバケットで他人のデータと衝突する 初期化のコストが高いため実験的なことがしづらい テストを回すたびに課金される ネットワークがないと何もできない 色々ありますね。 オフラインでかつローカル完結な開発環境を手に入れれば、上記の問題は解決します。 そして、それ..."
+    },
+    {
+      "title": "クラウドは画面ぽちぽちよりTerraform ―stateの秘密とpolicy-as-codeをAzure出身者向けに",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-terraform-over-clickops",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-08T23:24:38+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。今回は道具ではなく姿勢の話——「クラウド環境は画面でぽちぽちやるより、Terraform で作るべき」。私自身そう考えていて、この記事で自分の持論を実際に手を動かして検証しました。 結論から言うと、その考えはほぼ正しい。ただし精密に言うと、大事なのは「HCL を書けること」より「state とガードレールを運用できること」。今回はそこまで踏み込みます。Azure の Bicep を知っている人向けの対応づけも。 ! 検証は課金なしプロジェクトに無料リソース（SA/IAM/SA鍵）だけを Terraform で作..."
+    },
+    {
+      "title": "[アップデート] AWS Lambda コンソールの「IDE で開く」機能が Kiro と Cursor にも対応しました",
+      "url": "https://dev.classmethod.jp/articles/aws-lambda-ide-kiro-cursor/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T22:23:30+00:00",
+      "summary": "AWS Lambda コンソールの console-to-IDE 機能が Kiro と Cursor に対応したので、実際に試してみました。コンソールからワンクリックで各 IDE を開けるようになっています。"
+    },
+    {
+      "title": "無料枠で挑むOCI Kubernetes実践応用",
+      "url": "https://zenn.dev/kosments/books/oci-k8s-sustainability-hackathon-2026",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-08T18:36:44+00:00",
+      "summary": "三瀬悠真がDevOpsサステナビリティのハッカソンに参加し、OCIのAlways Freeを前提にしたKubernetes検証環境でWebサービス、SRE、DevOps、API/AI活用を実践する物語形式の応用入門です。"
+    },
+    {
+      "title": "[アップデート] Amazon Quick Sight のマルチデータセットトピックで 4 つのデータセットの自然言語問合せを試してみた",
+      "url": "https://dev.classmethod.jp/articles/20260809-amazon-quick-mds/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T18:25:18+00:00",
+      "summary": "Amazon QuickSightのトピックが複数データセットのランタイム結合に対応しました。事前にデータを結合する手間が不要になり、スタースキーマのまま複数テーブルをまたぐ分析ができるようになったので、実際にマネジメントコンソールで試してみました。"
+    },
+    {
+      "title": "Docker内でpnpm10プロジェクトの環境整備時にエラーが出た話",
+      "url": "https://zenn.dev/nemunyan/articles/e6e78c3659d665",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-08T16:29:32+00:00",
+      "summary": "概要 pnpm10を使っているプロジェクトの開発環境を新しく構築しようとした人が以下のエラーに直面した。 [ERROR] Cannot verify the identity of the @pnpm/exe.linux-x64 native binary: it is missing from pnpm-lock.yaml. For help, run: pnpm help install 対策として、Dockerfile内 npm install -g pnpmにバージョン10.34.5指定を付けた。 話題になっているissue https://github.com/pnpm/p..."
+    },
+    {
+      "title": "AWS IAMのAWS管理ポリシーを全種類捕まえてみた",
+      "url": "https://dev.classmethod.jp/articles/summer-project-2026-iam-aws-managed-policies-get-daze/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T14:59:00+00:00",
+      "summary": "夏なので、AWS管理ポリシー（AWS Managed Policy）をたくさん捕まえました。AWS管理ポリシーって長くて呼びづらいので、マネポリと呼びますね。マネポリをゲットしました。1,564匹もいるのでどの子をパーティに入れるか迷ってしまいますね。"
+    },
+    {
+      "title": "Amazon Cognito 向け aws-auth スキルでパスキー認証アプリを試してみた",
+      "url": "https://dev.classmethod.jp/articles/agent-toolkit-aws-auth-skill-cognito-passkey/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T14:08:51+00:00",
+      "summary": "Agent Toolkit for AWS に aws-auth スキルが追加されました。Cognito 認証に関する9つのリファレンスをまとめたスキルです。これを使い、GPT-5.6 Luna で Cognito パスキー認証のデモアプリを実装しました。"
+    },
+    {
+      "title": "AKS の Argo CD Extension を試してみた",
+      "url": "https://zenn.dev/08thse/articles/121-aks-argo-extension-pv",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-08T14:06:15+00:00",
+      "summary": "Kubernetes におけるアプリケーションデプロイの仕組みとして、GitOps を採用している環境も増えてきました。 GitOps の代表的なツールとしては Flux や Argo CD があります。Azure Kubernetes Service（AKS）ではこれまでも Flux v2 を Azure のクラスター拡張として利用できましたが、2026年5月に Argo CD extension for AKS and Azure Arc-enabled Kubernetes が Public Preview として発表されました。 これにより、Argo CD を自分で Helm ..."
+    },
+    {
+      "title": "Amazon SageMaker HyperPod の Slurm クラスターで非対応のはずのマネージメントコンソールからの AMI 更新を試してみた",
+      "url": "https://dev.classmethod.jp/articles/sagemaker-hyperpod-slurm-ami-update-console/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T12:58:10+00:00",
+      "summary": "Amazon SageMaker HyperPod の Slurm クラスターで、公式ドキュメントでは非対応とされているマネージメントコンソールからの AMI 更新を実際に試してみました。ルートボリューム置換の動作や所要時間など、検証結果を紹介します。"
+    },
+    {
+      "title": "Agent Framework の agent.run() で Python 関数が呼ばれるまでを分解する",
+      "url": "https://zenn.dev/kmdkmd/articles/agent-framework-tool-calling-python",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-08T11:35:22+00:00",
+      "summary": "Microsoft Agent Framework では、Python 関数を tools に渡すだけで、モデルが必要に応じてその関数を呼び出せます。ただし、この短いコードだけでは、モデルの Tool 呼び出し要求を誰が Python 関数の実行へ変換し、その結果をどうモデルへ戻すのかが表面上は見えません。 urls = [\"https://example.com/article\"] tools = ArticleTools(urls) agent = chat_client.as_agent( instructions=( \"あなたは技術記事を比較し、学習の優..."
+    },
+    {
+      "title": "Aurora MySQL の変更データを AWS DMS の Full Load + CDC で S3（Parquet）に出力し Athena でクエリしてみた",
+      "url": "https://dev.classmethod.jp/articles/dms-full-load-cdc-aurora-mysql-to-s3-parquet/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T11:25:09+00:00",
+      "summary": "AWS DMS で Aurora MySQL のデータ変更をリアルタイムに S3 へ連携し、Athena で分析する方法を、実装手順と動作確認まで含めてご紹介します。"
+    },
+    {
+      "title": "Claude Code v2.1.225〜v2.1.226 の主要アップデート - SendMessage の他マシン発信対応と認証まわりの修正",
+      "url": "https://dev.classmethod.jp/articles/20260808-cc-updates-v2-1-226/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-08T10:52:00+00:00",
+      "summary": "Claude Code v2.1.225〜v2.1.226の主要アップデートをまとめました。SendMessageが他マシンのセッションに発信できるようになったほか、認証やセッション周りの重要な修正が多数含まれています。本日は「SendMessage の他マシン発信」を試してみました。"
+    },
+    {
+      "title": "コンテナを push したら URL が生えるまでに、何をやっているか",
+      "url": "https://zenn.dev/toukadc/articles/e9f2cb60d02754",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-08T07:23:00+00:00",
+      "summary": "はじめに Docker でアプリを動かせるようになった人が、次に必ずぶつかる壁があります。 動いた。で、これをどうやってインターネットに出すのか。 サーバを借りて、リバースプロキシを立てて、ドメインを取って、DNS を引いて、証明書を取って、その更新を仕込んで、ファイアウォールを開ける。アプリのコードとは一切関係のない作業が、公開のたびに発生します。しかも一度で終わりません。証明書は更新され続けます。 それ、Vercel でいいのでは 先に書いておくと、多くの場合はそれで正しいです。 Vercel / Netlify / Cloudflare Pages — ソースを渡すと向..."
+    },
+    {
+      "title": "[アップデート] CloudWatch managed Prometheus collectorsでPrometheusメトリクスをCloudWatchへ直接送れるようになりました",
+      "url": "https://dev.classmethod.jp/articles/cloudwatch-managed-prometheus-collector/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T06:57:30+00:00",
+      "summary": "Amazon CloudWatchに追加されたManaged Prometheus collectorを使ってみました。従来の自前ADOT Collector構成との違いや、実装時の手順、メトリクス収集結果を比較していきます。"
+    },
+    {
+      "title": "【OT/ICS】Dockerで挑む次世代電力網防衛（要塞要撃編：Grafana Node Graph ✕ Elasticsearch 統合）",
+      "url": "https://zenn.dev/schutzz/articles/ad807aea04779b",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-08T06:11:49+00:00",
+      "summary": "はじめに 前回のPhase 4-4-1において、eBPF Vanguard によるパケットの選別と、ebpf_tx_agent / Redis / Vector を連携させた W3C Trace Context の OOB エンリッチメント（enrichment_status: hit 100% 成功）を証明できました。 しかし、実際の SOC（セキュリティ運用センター）やインシデントフォレンジックの現場において、「外部ネットワーク（WAN）から JumpServer（踏み台）を経由して内部OT機器へ至るアタックチェーン全体の相関トポロジー」 を直感的に一目で可視化するためには、単一..."
+    },
+    {
+      "title": "AWS Batch に優先順位を自分で決められる配分戦略が追加されたので図解で整理してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-batch-ordered-allocation-strategies/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T06:10:19+00:00",
+      "summary": "AWS Batch に追加された 2 つの新しい配分戦略について、オンデマンド向けと スポット向けの違いを図解を交えて整理しました。インスタンスタイプの優先順位を自分で指定したいときの使い分けをまとめます。"
+    },
+    {
+      "title": "cdk8sでingressからgatewayAPIに切り替えたお話２",
+      "url": "https://zenn.dev/rirua1719/articles/cdk8s-ingress-2-gatewayapi-2",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-08T04:00:05+00:00",
+      "summary": "長くなりそうだった前回の続きです、、、 作業 自分が何をしたかの備忘録みたいなものです、、、 1. 既存のIngress NGINXを使用している箇所を削除＆minikube addons enable ingressをTaskfileから削除 とりあえず、記載箇所を削除するだけです。特に書かないです。 2. 使用するGatewayAPIのCRDをK8sに入れる ここではGatewayAPIのCRDと使用するIstio Gateway APIの設定を入れます。 A. GatewayAPIのCRD 以下のコードに記載されているようにcdk8s.NewInclude()を呼ぶ..."
+    },
+    {
+      "title": "cdk8sでingressからgatewayAPIに切り替えたお話１",
+      "url": "https://zenn.dev/rirua1719/articles/cdk8s-ingress-2-gatewayapi-1",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-08T04:00:05+00:00",
+      "summary": "まじで、お久しぶりです。わたなおです。 これまでの記事って結局、仕事でやったことのお話しかしてなかったんですよね。なので心機一転、趣味でやってることで色々あったのでそのお話をしようかと思います。 今回のネタ 実は最近インフラエンジニアでもないのに改めてK8sの情報をピックアップしたんですよね。で、趣味で作っているゲームサーバーでIngressを使っていたのですが、英語版が気になって見てみたんです。 The Kubernetes project recommends using Gateway instead of Ingress. The Ingress API has been ..."
+    },
+    {
+      "title": "[アップデート] Kiro IDE の Powers が Agent Plugins 仕様に対応し、他ツール向けプラグインをそのままインストールできるようになりました",
+      "url": "https://dev.classmethod.jp/articles/kiro-powers-supports-plugins/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-08T03:34:53+00:00",
+      "summary": "Kiro IDE が Agent Plugins 1.0.0 仕様に対応しました。これまで独自フォーマットでしか使えなかった Powers が、Claude Code や Cursor などと共通の仕様で利用できるようになったので、実際にインストールして試してみました。"
+    },
+    {
+      "title": "GeminiをGCPで叩く ―AI StudioとVertex AI、どっち？をAzure OpenAI目線で",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-aistudio-vs-vertex",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-08T03:28:46+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズ、今回は AI。GCP で Gemini を使おうとすると、最初にこう迷います。 AI Studio と Vertex AI、2つの入口があるけど、どっちで叩けばいいの？ Azure でいう「Azure OpenAI（自分のサブスク内・企業向け） と OpenAI 直API（キーでサッと）」の分かれ道とほぼ同じ構図です。今回は両方から実際に Gemini を叩いて、違いをハッキリさせます。 ! 検証は使い捨てプロジェクトで実施。gemini-2.5-flash を数回叩いただけなので実費はごく僅か、検証後にプロジ..."
+    },
+    {
+      "title": "【非エンジニアのためのClaude/Claude Codeシリーズ】 Claudeを紹介するデモをClaudeに作らせてみた",
+      "url": "https://dev.classmethod.jp/articles/demo_tsukuru/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-08T02:51:53+00:00",
+      "summary": "営業向けClaudeの活用方法を紹介します。PDFの分析からダッシュボード作成まで、営業が30分で作れるデモの作り方を実例とともにご紹介します。"
+    },
+    {
+      "title": "Podman DesktopでDocker HubのイメージをRate Limitを気にせず使う",
+      "url": "https://zenn.dev/totto2727/articles/ec776fed8e88a8",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-08T02:39:33+00:00",
+      "summary": "はじめに Podman Desktopは便利ですが、デフォルトのままだとイメージの取得元が quay.io になっており、Docker Hub（docker.io）のイメージを使うときに不便です。また、docker.io を直接指定してもミラーを設定していないとRate Limitに引っかかりやすくなります。 今回は、Podman Desktopで起動される仮想マシンに対して、docker.io をデフォルトのレジストリとして使いつつ、mirror.gcr.io 経由でイメージを取得する設定を紹介します。 設定ファイル /etc/containers/registries.con..."
+    },
+    {
+      "title": "objectパラメータのデプロイ時エラーに苦しんだ人へ ─ Bicepのtype文で型チェックを効かせる",
+      "url": "https://zenn.dev/yotan/articles/bicep-user-defined-types-guide",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-08T01:41:54+00:00",
+      "summary": "はじめに 正直に告白すると、Bicepをかなり初期の頃から使い続けているのに、ユーザー定義型（type文）をまともに使ってきませんでした。 bicepparamで大量のパラメータを流し込むとき、関連する値をまとめるためにずっとobject型・array型をそのまま使っていて、プロパティ名を1文字間違えただけでbicep buildは素通りし、デプロイを実行した瞬間にARM側のエラーで初めて気づく、というのを何度もやらかしてきました。そのたびに「ああ、またやった」と地味にへこんでいたのを覚えています。 type型を使えばコンパイル時点で防げていたはずのミスです。今回はこのtype文の使..."
+    },
+    {
+      "title": "Macが週に何度もフリーズしてForce Quitも効かない — 犯人はターミナルではなくディスクとDocker Desktopだった",
+      "url": "https://zenn.dev/ivyxon/articles/macos-freeze-disk-docker-timemachine",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-08T00:05:52+00:00",
+      "summary": "今週だけで数回、Macが固まった。Launchpadのアイコンをクリックしても反応しない、Dockのアプリを選択できない、⌘+Option+EscでForce Quitを呼び出そうとしても効かない。最終手段は電源長押しの強制再起動だけ、という状態が繰り返し起きた。 作業中に唯一共通していたのは「Claude Code（CLIのコーディングエージェント）を使っている最中に起きる」ということだった。てっきり複数のコマンドを同時に走らせているターミナル側が犯人だと思い込み、Terminal.appからGhosttyに乗り換えた。多少改善した気はしたが、数日で再発した。 腰を据えて、Claude..."
+    },
+    {
+      "title": "アプリに秘密を1文字も書かない ―Secret Manager×Cloud RunをAzure Key Vault目線で",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-secret-manager-cloud-run",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-07T21:05:53+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。これまで「SA鍵を作らない(WIF)」「トークンを絞る(CAB)」と\"秘密を持たない\"話をしてきました。今回はその締め——アプリケーションに、API キーや DB パスワードを1文字も書かないやり方です。 道具は Secret Manager × Cloud Run。秘密は Secret Manager にだけ置き、Cloud Run が起動時に IAM で取得する。コードにもコンテナイメージにもリポジトリにも秘密は無い。IAM 境界（権限が無ければ取得すらできない）とローテーションまで実演します。Azure ..."
+    },
+    {
+      "title": "お店の成長とともに、AWS環境はどう拡大していくのか考えてみた",
+      "url": "https://dev.classmethod.jp/articles/summer-project-2026-aws-shop-growth-koty-mousa/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T17:24:19+00:00",
+      "summary": "架空のお店の成長を通じて、AWS環境がどのように拡大していくのか考えてみました"
+    },
+    {
+      "title": "Linuxの基礎を、CTF風クエストを作って解きながら復習してみた",
+      "url": "https://zenn.dev/satoru_o/articles/f1706abbca3643",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-07T16:13:41+00:00",
+      "summary": "はじめに 今回は「Dockerコンテナの中で何かがうまく動いていない状態を、Linuxの力で解決してFLAGを手に入れる」自習用の小さなクエストを5本作って、自分で解いてみた記録です。ミニCTFっぽい形式で、docker psやgrepみたいな、分かってるつもりだけど実務でとっさに出てこないコマンドを、体で覚え直すのが目的です。 やったこと・感想 「ポート競合」「パーミッション」「シグナル」「DNS」「ログ調査」の5本を作って全部解いた コマンドを丸暗記しようとしても定着しないので、「症状→調査→対処」のセットで覚える方が良さそう 答え合わせ用にverify.shを後付けした ..."
+    },
+    {
+      "title": "社内合宿でAI BPRを取り組んでみた",
+      "url": "https://dev.classmethod.jp/articles/ai-bpr-workshop-internal-camp/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-07T15:18:51+00:00",
+      "summary": "先日、部内でAI BPRを活用したBPR勉強会を実施しました。案件対応中心のエンジニアがSales業務を「お客様」として体験することで、技術的な学びだけでなく同僚への理解と共感が生まれた、その経験を共有します。"
+    },
+    {
+      "title": "チーム知見メモリの「頭脳」をオンプレk3sのローカルLLMに載せ替えて、本番運用に耐える形にするまで",
+      "url": "https://zenn.dev/ysteng/articles/local-llm-agent-onprem-k3s",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-07T12:52:20+00:00",
+      "summary": "はじめに 前回、チームの雑多な知見を貯める「知見メモリ」を、Markdown＋git（Obsidian vault）で作った話を書きました。その記事の最後で、こう書いています。 知見を整形する「頭脳」を差し替え可能にしておく。今はClaudeがやっているが、将来的にはオンプレのKubernetes（k3s）上でローカルLLMに同じ仕事をさせられる。 今回はその「将来」を実際にやった話です。Slackへのメンションを、自宅・社内クラスタの中のモデルが整形して、GitHubのvaultにコミットするところまで動きました。 そしてMVPから実機投入までの間に、想定していなかった作業がか..."
+    },
+    {
+      "title": "SQLiteからRDS for PostgreSQLへの移行をpgloaderで検証してみた",
+      "url": "https://dev.classmethod.jp/articles/myan-aws-sqlite-rds-verify/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T12:36:24+00:00",
+      "summary": "SQLiteからAmazon RDS for PostgreSQLへの移行をpgloaderで実装しました。検証環境の構築から実際の移行手順、ハマりやすいSSL設定、そして移行後に必要な作業まで、実務的な知見をまとめて紹介します。"
+    },
+    {
+      "title": "Claude Code v2.1.224 の主要アップデート - セルフホスト環境とセッション間メッセージング",
+      "url": "https://dev.classmethod.jp/articles/20260807-cc-updates-v2-1-224/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-07T12:28:18+00:00",
+      "summary": "Claude Code v2.1.224 がリリースされました。セルフホスト環境の構築やセッション間のメッセージング、サンドボックス拒否設定の修正など、31 件の変更が入った今回のアップデート内容を解説します。新機能である 「セッションをまたぐ SendMessage と ListAgents」を試しています。"
+    },
+    {
+      "title": "Power BI Embedded 入門 — Managed Identity でシークレットレスにレポートを埋め込む",
+      "url": "https://zenn.dev/archiningen/articles/power-bi-embedded-quickstart",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-07T11:08:26+00:00",
+      "summary": "! この記事は archiningen.com からの転載です。 連載「Power BI Embedded 実践」の第 1 回 (全 3 回) です。 「自社の Web アプリの画面に、Power BI で作ったレポートをそのまま出したい」という要件は、BI がある程度定着した組織なら遅かれ早かれ降ってきます。厄介なのは閲覧者です。社外の顧客やパートナーで、当然 Power BI のライセンスは持っていません。 Power BI 標準の共有機能は「閲覧者も Power BI ユーザーである」ことが前提で、ライセンスのない相手には使えません。かといって「Web に公開 (publish..."
+    },
+    {
+      "title": "[アップデート]Kiro WebのIAM Role設定で信頼ポリシーが更新されていたので動作確認してみた",
+      "url": "https://dev.classmethod.jp/articles/update-kiro-web-iam-role-trusted-policy/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T11:06:44+00:00",
+      "summary": "Kiro WebとIAM Roleの連携が新しい信頼ポリシーに対応しました。旧方式との違いや実際の設定方法、CloudTrailログでの動作確認を試してみました"
+    },
+    {
+      "title": "AIコーディングのContext Modeは本当に効く？ページネーション実装を4条件で比較してみた",
+      "url": "https://zenn.dev/ocadanuki/articles/190e077f510dc5",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-07T10:50:42+00:00",
+      "summary": "AIコーディングで小さな実装を進めるとき、コストと待ち時間をどこまで抑えられるのかを試してみました。同じページネーション実装を4条件で行い、合計コストと所要時間を比較しています。 https://github.com/JuliusBrussee/caveman https://github.com/mksglu/context-mode 結論：今回はContext Mode単体が最良だった 今回の1回ずつの比較では、Context Modeのみが合計コスト $0.3285、API処理時間 42秒、実経過時間 1分59秒 で最も良い結果でした。 条件 合計コスト スキルなし比のコ..."
+    },
+    {
+      "title": "AWS Backup for S3 の新機能「バックアップアクセスポイント」でバックアップデータの直接アクセスを試してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-backup-s3-backup-access-point/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T10:02:57+00:00",
+      "summary": "AWS Backup for S3 にバックアップアクセスポイント機能が追加されました。従来はバックアップから1ファイルを取り出すにもリストアジョブが必要でしたが、アクセスポイント経由なら S3 標準 API で直接取得できます。AWS CLI で実際に検証してみました。"
+    },
+    {
+      "title": "乗っ取られたAIエージェントをCloud Run sandboxesで封じる ―SAトークン窃取を実測",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-cloud-run-sandboxes",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-07T09:43:33+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。今回は 2026 年に出た Cloud Run sandboxes。ひとことで言うと、Cloud Run のインスタンス内で信頼できないコード（AI が生成したコード、ユーザーが投稿したコード）を隔離実行するための機能です。 なぜ今これが要るのか。コードを書いて実行する AI エージェント（コードインタプリタ）は、プロンプトインジェクションで「悪意あるコードを書かされる」攻撃対象になります。そのコードがアプリ本体の権限で走ると、サービスアカウントのトークンを盗まれ、Secret を読まれ、データを外部へ持ち出さ..."
+    },
+    {
+      "title": "AWS WAF を使った Web アプリケーション防御のワークショップをやってみた",
+      "url": "https://dev.classmethod.jp/articles/waf-web-application-workshop/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T09:40:12+00:00",
+      "summary": "CloudFrontを保護する保護パックの作成から、XSS・SQLインジェクション対策、ボットコントロール、レート制限、API保護まで、7つのステップでセキュリティ対策を実装する手順を紹介します。"
+    },
+    {
+      "title": "AWS Systems Manager Parameter Store から AWS Secrets Manager のシークレットを GetParameters でまとめて取得してみた",
+      "url": "https://dev.classmethod.jp/articles/parameter-store-secrets-manager-getparameters/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T06:59:41+00:00",
+      "summary": "AWS Systems Manager Parameter Store の `/aws/reference/secretsmanager/` プレフィックスを活用して、通常設定値と Secrets Manager のシークレットを GetParameters で一括取得する方法を検証してみました。"
+    },
+    {
+      "title": "AIは謝らない？？？",
+      "url": "https://zenn.dev/harmonicmodeler/articles/eb12ac12ab873e",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-07T04:28:51+00:00",
+      "summary": "あなたはAIに謝りますか？ AIと会話しているとき、私は普通に「すみません」と言うことがあります。 質問の仕方が悪かった場合。 前提条件を間違えていた場合。 AIの回答を誤解していた場合。 人間相手と同じように訂正します。 すぐ、AIと議論になるという人を見て、単純な疑問に行き当たりました。 AIは謝らない？ 「AIは間違えても謝らない」という意見を見ることがあります。 しかし、私は少し違う見方をしています。 人間同士でも、相手の説明を最初から否定し、聞く姿勢がない場合、会話は深まりません。 AIの場合は心理的な理由ではありませんが、与えられた情報や会話の文脈によって回答の質は変..."
+    },
+    {
+      "title": "Amazon WorkSpaces Secure Browser の SSO 拡張機能で Microsoft Entra ID の再サインインを省略してみた",
+      "url": "https://dev.classmethod.jp/articles/amazon-workspaces-secure-browser-entra-id-sso-extension/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T02:57:19+00:00",
+      "summary": "Microsoft Entra ID と SAML 連携した WorkSpaces Secure Browser のポータルで、SSO 拡張機能を有効にしてみました。Cookie 同期により、Secure Browser セッション内から Microsoft My Apps へ追加のサインイン操作なしでアクセスできるか検証した結果をお伝えします。"
+    },
+    {
+      "title": "Amazon SES の送信レート上限を超えているはずなのにメールを送信できる原因を教えてください",
+      "url": "https://dev.classmethod.jp/articles/tsnote-ses-sending-rate-limit-burst/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T01:00:12+00:00",
+      "summary": "Amazon SES のサンドボックス環境で送信レート超過エラーが発生しない理由と、正しい検証方法について解説します。送信レートクォータの仕組みやエラー検出のポイント、設定確認方法をまとめました。"
+    },
+    {
+      "title": "Kubernetes マニフェストレビューは「どこで評価するか」と「どう扱うか」を分けて設計する",
+      "url": "https://zenn.dev/aws_japan/articles/a56bc58d9f6ebb",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-07T00:54:59+00:00",
+      "summary": "はじめに こんにちは konippi です。 Kubernetes マニフェストには、コンテナイメージだけでなく、実行権限、リソース量、障害時の挙動など、本番環境を左右する設定が詰まっています。それでも PR ではアプリケーションコードほど注意深く見られず、過剰な RBAC や resource requests の欠落などがそのまま通ることがあります。 2026 年 5 月に CNCF Blog の Community Post として公開された「Why Kubernetes policy enforcement happens too late—and what to do ab..."
+    },
+    {
+      "title": "医療情報システムの安全管理に関するガイドライン第7.0版の改定ポイントをAWSアーキテクチャの観点で整理してみた",
+      "url": "https://dev.classmethod.jp/articles/iro-guideline70-aws/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-07T00:06:14+00:00",
+      "summary": "医療情報システムのガイドライン第7.0版が改定されました。本記事では、この改定内容をAWSクラウド上での設計・運用にどう落とし込むかを整理します。保守委託や脆弱性対策、認証方式など、実装に影響しそうなポイントを確認してみます。"
+    },
+    {
+      "title": "Agent Framework Harness と Agent Governance Toolkit でファイル操作エージェント制御",
+      "url": "https://zenn.dev/microsoft/articles/agent-governance-toolkit-policy-02",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-06T22:48:46+00:00",
+      "summary": "はじめに 前回の記事 では、Agent Governance Toolkit（AGT）のポリシーエンジンを単体で評価し、Microsoft Agent Framework のエージェントに .WithGovernance() で組み込む方法を紹介しました。 今回は一歩進めて、Microsoft Agent Framework の Harness と AGT を組み合わせます。題材は、エージェントがローカルの作業ディレクトリを操作するファイルアクセスエージェントです。 エージェントにファイルを扱わせると、次のような要件がすぐに発生します。 ファイルの一覧表示・読み取り・検索は許可した..."
+    },
+    {
+      "title": "Amazon BedrockのGPTモデル向けWeb SearchをGPT-5.6 Lunaで試してみた",
+      "url": "https://dev.classmethod.jp/articles/bedrock-mantle-gpt56-web-search/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-06T16:41:58+00:00",
+      "summary": "Amazon BedrockでOpenAI GPTモデル向けのWeb Searchツールが一般提供されました。Responses APIで`tools=[{\"type\": \"web_search\"}]`を追加するだけで、Web検索グラウンディングが使えます。GPT-5.6 Lunaで日本語回答とソース引用の取得を確認しました。"
+    },
+    {
+      "title": "Claude Code v2.1.223 の主要アップデート - 権限バイパスの修正と /review の /code-review 統合",
+      "url": "https://dev.classmethod.jp/articles/20260806-cc-updates-v2-1-223/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-06T13:56:42+00:00",
+      "summary": "Claude Code v2.1.223がリリースされました。セキュリティ修正4件に加えて、/review の /code-review 統合やコンテキストウィンドウ制御の変更など、運用に影響する重要なアップデートが含まれています。"
+    },
+    {
+      "title": "手元でも動くArgoCD風ダッシュボード「kd」を作った",
+      "url": "https://zenn.dev/motoki317/articles/d54f10cd91bd8b",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-06T13:03:30+00:00",
+      "summary": "Kubernetesをクラスタ運用やローカル開発で使っている皆さんは、クラスタの中で何が起きているのか分からず、デバッグで困ったことがありませんか？ そんなとき、あのArgoCDのリソースツリー画面を、ローカルでも見られたら便利そうだなとか... ↑ArgoCDのリソースツリー ArgoCDはクラスタにデプロイする必要があり、手元であの画面を見るためだけに動かすには少々面倒です。また、「Application」でArgoCDが管理しているリソースしか見られないという制約もあります。 ターミナルで動くツールとしてはk9sが有名ですが、TUIという制約上、ブラウザだからこそ表現できるArg..."
+    },
+    {
+      "title": "無課金Codex画像生成の運用ハマりどころと「効く挿絵」の条件",
+      "url": "https://zenn.dev/hoshiorange/articles/09-codex-imagegen-editorial-pitfalls",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-06T09:14:31+00:00",
+      "summary": "こんにちは。「AIに挿絵を描かせたら記事がリッチになるぞ」と意気込んだのに、できあがった画像を眺めて「……なんか安っぽい」と手が止まった経験、ありませんか。私はありました。 今日は、追加課金なし（ChatGPT のサブスク枠だけ）で、Codex CLI を使って記事用の画像を生成できるようにした話をします。ただし主役はセットアップ手順ではありません。手順を紹介する記事はもう山ほどあるので、ここでは動かした後に立て続けに踏んだ運用のつまずきと、「どんな挿絵なら記事の質が上がるのか」という編集の判断に振り切ります。 結論を先に言うと、ハマるのはセットアップより運用でした。そして一番効いたのは..."
+    },
+    {
+      "title": "Cloud RunのGPUをL4とRTX PRO 6000で実測 ―72B LLM・起動速度・コスト",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-cloud-run-gpu-ollama",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-06T09:06:44+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。今回は Cloud Run の GPU サポート（2026 GA）を、腰を据えて測ります。サーバーレスなのに GPU で LLM 推論でき、使わない時は scale-to-zero でインスタンス 0＝GPU 課金も止まる、という代物です。 選べる GPU は 2 種類。VRAM 24GB の NVIDIA L4 と、VRAM 96GB の NVIDIA RTX PRO 6000 Blackwell。この「VRAM 96GB」が何を可能にするのか——小さいモデルでは差が見えないので、Ollama で 7B から..."
+    },
+    {
+      "title": "イベント2日間のために、週末だけ1ヶ月・実働20時間未満でAI4コマ漫画アプリを作ってみた",
+      "url": "https://zenn.dev/optimisuke/articles/e9d1ac3bd47482",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-06T08:54:30+00:00",
+      "summary": "はじめに テックルズで、経済産業省こどもデー(7/29・7/30)向けに4コマ漫画生成アプリ「どやねん.ai!」を作りました。人が1コマ目と3コマ目を描いて、AIが2コマ目と4コマ目を描くアプリです。 イベントが終わったので、そろそろこのアプリは止めようと思っています。ちょうど一周したので、今回の週末?プロジェクトをAIとどうすすめたかを振り返っておきます。 規模はこれくらいでした。 準備期間: 1ヶ月ほど。週末にたまに進める感じ 実働開発時間: ちゃんと計算してないけど、10時間以上20時間未満くらい 体制: エンジニア1人(自分) + デザイナー3人 使った場所: イベント2日..."
+    },
+    {
+      "title": "Amazon RDS の DB サーバー証明書は手動でローテーションできますか",
+      "url": "https://dev.classmethod.jp/articles/tsnote-rds-certificate-rotation/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-06T08:00:10+00:00",
+      "summary": "Amazon RDS のサーバー証明書を手動ローテーションする方法について、DB エンジンの対応状況と具体的な手順を紹介します。"
+    },
+    {
+      "title": "NocoBase の Docker イメージでプラグイン開発はできるのか — 公式手順に書かれていない前提を実測する",
+      "url": "https://zenn.dev/stale_orbit/articles/nocobase-2x-docker-plugin-dev",
+      "source": "Zenn（Docker）",
+      "category": "Docker",
+      "published_at": "2026-08-06T06:46:47+00:00",
+      "summary": "はじめに NocoBase のプラグイン開発ドキュメントは、開発環境として create-nocobase-app で作ったプロジェクトか Git ソースからのインストールを前提にしています。ところが実際に触り始めるときは、たいてい Docker で一発デプロイした環境がもう手元にあります。DB の準備も済んでいるし、そこでプラグインを作れれば早い——そう考えるのは自然です。 同じことを考えた人が中国語フォーラムに報告を残していました（t/12732・2026-05）。Docker 環境ではビルド時に異常が出る、原因は @nocobase/devtools が入っていないことだ、とい..."
+    },
+    {
+      "title": "KiroCrew公式DockerイメージをEC2で動かしてTailscale経由の接続を試してみた",
+      "url": "https://dev.classmethod.jp/articles/kiro-crew-docker-tailscale-ec2/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-06T06:38:41+00:00",
+      "summary": "前回EC2上に直接インストールしたKiroCrewを、Dockerコンテナを隔離境界として運用し、Tailscale Serve経由でtailnet内からアクセスできる構成を試しました。SSMによる有人セットアップ、named volume構成、アクセスログに記録される項目も確認します。"
+    },
+    {
+      "title": "Foundry Hosted Agent のデプロイ方式（code / container）を整理する",
+      "url": "https://zenn.dev/zukako/articles/20260805-azfdry-cycle-poc",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-06T06:18:02+00:00",
+      "summary": "! 本記事は筆者個人の検証結果に基づくものであり、所属する組織の公式見解を示すものではありません。正確な情報や最新の仕様については、公式ドキュメントをご確認ください。 はじめに Microsoft Foundry の Hosted Agent を azd（Azure Developer CLI）でデプロイするとき、azd ai agent init のスキャフォールドから azd up によるデプロイまでの流れと、--deploy-mode で選べる 2 つのデプロイ方式を検証しながら整理したメモです。 先に結論を言うと、どちらの方式で..."
+    },
+    {
+      "title": "Amazon WorkSpaces Secure Browserの料金体系を整理してみた",
+      "url": "https://dev.classmethod.jp/articles/amazon-workspaces-secure-browser-pricing/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-06T04:54:45+00:00",
+      "summary": "Amazon WorkSpaces Secure Browserの料金体系について、東京リージョンを対象に詳しく解説します。ポータル作成時の課金の有無、月間アクティブユーザー単位での課金方法、インスタンスタイプ変更時の料金計算まで、導入検討時に気になるポイントをまとめました。"
+    },
+    {
+      "title": "CodexでOpenRouter経由のGPT-5.6 Lunaを使う方法",
+      "url": "https://zenn.dev/himazi/articles/da55f62fbd4140",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-06T04:29:20+00:00",
+      "summary": "確認日：2026年8月6日 OpenRouterの価格やCodexの設定仕様は変更される可能性があります。実際に利用する前に、モデルページとActivity画面で最新情報を確認してください。 はじめに Codexのサブスクリプション利用枠を使い切りそう！けども作業は残ってる！ リセットまでの一時的な代替手段が何かないか... あ！ OpenRouterからLuna使おう!! Codex CLIはカスタムモデルプロバイダーに対応しているため、普段のChatGPTサブスクリプション利用を残したまま、必要なときだけOpenRouter経由でGPT-5.6 Lunaを呼び出せます。Ope..."
+    },
+    {
+      "title": "ChatGPT Windowsアプリの初回セットアップが終わらない元凶は、Codexのconfig.toml",
+      "url": "https://zenn.dev/lifona/articles/0c343d4bc63dd5",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-06T02:57:05+00:00",
+      "summary": "TL;DR 結論から言う。この画面なのに疑うべきはWindowsの権限ではなく、Codexの設定ファイル。 見えていた症状 実際の原因 ChatGPT Windowsアプリの初回セットアップが完了しない Windows側 .codex/config.toml のMCPサーバー名不一致 UACダイアログは「はい」で通る 権限の問題ではない Windowsの「修復」を実行しても直らない Windows機能の破損でもない 症状 ChatGPTのWindowsアプリを起動すると、初回セットアップ画面から先に進めなくなった。 「一度限りのWindowsアクセ..."
+    },
+    {
+      "title": "IAMロールにスイッチロールできるIAMユーザをタグで絞り込みしてみた",
+      "url": "https://dev.classmethod.jp/articles/iam-switch-role-tag-control/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-06T01:52:09+00:00",
+      "summary": "IAMユーザに付与したタグを使ってスイッチロール可能なIAMユーザを制御する方法を試してみました。複数のIAMユーザで同じAWSアカウントにアクセスする場合、IAMロール毎にユーザ管理を行う手間を削減できる手法についてご紹介します。"
+    },
+    {
+      "title": "Microsoft Agent Framework -ハンズオンと試作-",
+      "url": "https://zenn.dev/headwaters/articles/62dd9febbbb554",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-06T00:26:12+00:00",
+      "summary": "執筆日 2026/08/05 はじめに Microsoft Agent Frameworkの理解を進めよう！というところでMicrosoftのチュートリアルをベースにハンズオンといろいろ遊んでみました。 偉大なる先人のみなさん https://zenn.dev/headwaters/articles/d46d821dff0aa2 https://zenn.dev/headwaters/articles/4bf7d7b6cf1ce4 参考資料 https://learn.microsoft.com/ja-jp/agent-framework/get-started/ 前..."
+    },
+    {
+      "title": "Amazon DynamoDBの新機能「ベクトルデータサポート」をCLIで試してみた",
+      "url": "https://dev.classmethod.jp/articles/dynamodb-realtime-vector-search/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-05T22:18:07+00:00",
+      "summary": "Amazon DynamoDBのベクトルデータサポートがGAになりました。事前に用意したベクトルを既存アイテムに保存し、GSIとは別種のベクトルインデックスを作成して、SearchVectors による近似近傍探索までをAWS CLIで確認します。"
+    },
+    {
+      "title": "制約8個の遵守確認、生成ターンと検証ターンを分けても文字数だけは直らない",
+      "url": "https://zenn.dev/every_ai_recipe/articles/ai-two-turn-constraint-check",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T21:07:57+00:00",
+      "summary": "TL;DR 複数制約を守らせたい生成タスクで、「生成→自己チェック」を同一ターン内の1回の指示に詰め込む方式と、生成後に出力を新しいメッセージとして貼り直し、別ターンで照合・修正させる方式を比較した 制約8個（返金対応メールを想定）で試したところ、内容系の制約（禁止表現・定型文・署名漏れなど）は別ターン確認でほぼ解消したが、「150字以内」という文字数制約だけはChatGPT・Claude・Geminiの3社そろって、何度確認させても直らなかった 生成と検証を別ターンに分ける効果は、検証者が生成時の文脈から切り離されることで自己確証バイアス（自分が書いた直後の出力を甘く判定する傾向..."
+    },
+    {
+      "title": "[Amazon Bedrock] Nova 2 Lite で金属部品の欠陥検出（外観検査）を試してみました",
+      "url": "https://dev.classmethod.jp/articles/bedrock-nova-2-lite-metal-defect-detection/",
+      "source": "DevelopersIO（AWS）",
+      "category": "AWS",
+      "published_at": "2026-08-05T16:43:42+00:00",
+      "summary": "Amazon Nova 2 Liteを使って、学習なしで金属部品の欠陥検出を試してみました。自然言語プロンプトだけで外観検査ができる仕組みと、実際の精度や限界について紹介します。"
+    },
+    {
+      "title": "何者でもなかった私が、発信を続けた先で見た景色",
+      "url": "https://zenn.dev/yuyanz/articles/51c8b2212adb08",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-05T15:56:31+00:00",
+      "summary": "! 本記事は個人の視点でのポエム記事になります。 プロローグ: 去年と同じ景色 2026年7月、私はAIDevDayの壇上から客席を眺めていました。 そこに広がっていたのは、去年とほとんど同じ景色でした。 違うのは、自分が客席側ではなくその前に立っているということだけ。 1年前の自分に言っても、絶対に信じないと思います。 そこに立てているのは、たくさんの人に背中を押してもらったからでした。 何者でもなかった私が「何者かになりたい」と願い、行動した過程を振り返る記事です。 その道のりは「生きていてよかった」と思えるほど素敵な出会いと経験に満ちていました。 忘れないうちに、今の自分に書..."
+    },
+    {
+      "title": "【AIと人間】AI時代について思うこと",
+      "url": "https://zenn.dev/beeeegle/articles/22c096360fb7f6",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T14:56:53+00:00",
+      "summary": "みなさま、こんにちはもしくは、こんばんは、あるいはおはようございます。 これを書いている時は夏です。 暑いです、暑いです、暑いです。 大事なことなので3回言いました（笑 ・・・それはさて置き、では以下本文です。 ※ 今回というかこのシリーズも個人的主観もりもり、個人の意見です（笑 前日譚（的な） 僕はSNSで見かけるようなAIで自動化！までは行ってないものの、壁打ちだったり、バイブコーディングだったりでAIを日常的に使用しています。 今回は以下の2つの視点から思うところを語っていきます！ AIを使ってて疲れるの正体 AIとどう付き合っていくか、その2 AIを使ってて疲れるの正..."
+    },
+    {
+      "title": "OpenAI SDKのままGeminiを叩く ―API Gateway model routingを個人で検証（2026）",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-api-gateway-model-routing",
+      "source": "Zenn（Azure）",
+      "category": "Azure",
+      "published_at": "2026-08-05T14:13:54+00:00",
+      "summary": "はじめに Azure から Google Cloud を触るシリーズです。2026年に出た API Gateway の model routing を試しました。ひとことで言うと、OpenAI 互換のリクエストを受け取って Vertex AI（Gemini など）に振り分けるマネージドな入口です。LiteLLM のような自前プロキシを立てずに、既存の OpenAI SDK のコードをそのまま GCP のモデルに向けられます。 個人の課金プロジェクトで、curl と本物の OpenAI Python SDK の両方から動かせました。途中で 404 に悩まされた原因（ホスト名が途中で変わ..."
+    },
+    {
+      "title": "What's New in Sigma - 2026年07月31日のSigma Computing関連リリース情報まとめ",
+      "url": "https://zenn.dev/truestar/articles/c4b844a12cf412",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T13:55:13+00:00",
+      "summary": "Sigma(Sigma Computing)の最新リリースノート情報を集約・要約して紹介しているコミュニティスレッド『Release Notes』。米国時間毎週金曜日中(日本時間土曜日早朝)に定期的に公開されているこちらのスレッドの内容について、個人的情報観測も兼ねて公開されたタイミングで目を通すようにしています。 当エントリではこのコミュニティスレッドにおける2026年07月31日付けの投稿について、内容を要約・咀嚼理解したものを紹介します。 TL;DR 2026年07月31日のSigmaリリースにおける主なトピック、目玉は以下の通り。 Sigma Tenants(マルチテ..."
+    },
+    {
+      "title": "KubeCon + CloudNativeCon Japan 2026で初のボランティア参加しました！",
+      "url": "https://zenn.dev/leverages/articles/8a86b32df341b9",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-05T11:59:05+00:00",
+      "summary": "はじめに こんにちは、ひよつくです。 今回はタイトルの通りKubeCon + CloudNativeCon Japan 2026(長い)にボランティアで参加した記録を綴ったブログになります。 こういったカンファレンスにボランティアで参加したのは初めてで、いろいろと新鮮な経験ができたので書き残そうと思います！ ボランティアの応募 去年からCNCF系のコミュニティイベントなどに参加しはじめて、k8s始めいろんなCNCFプロジェクトには普段からお世話になってるし何らかの貢献が出来ないものかといろいろ試していました。 最初はKubernetesのドキュメントを日本語訳するプロジェクトに..."
+    },
+    {
+      "title": "OpenShift Virtualization のネットワーク",
+      "url": "https://zenn.dev/tsubasaxzzz/books/fundamental-ocp-virt-network",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-05T09:05:08+00:00",
+      "summary": "OpenShift Virtualization で VM を動かすためのネットワークを、実際のクラスタで検証しながら整理したノートです。OVN-Kubernetes の仕組みからセカンダリネットワーク、UDN、バインディング方式、ライブマイグレーションなどをまとめています。"
+    },
+    {
+      "title": "Claude Code v2.1.222 の主要アップデート - worktree 分離のセキュリティ修正と ultraplan の削除",
+      "url": "https://dev.classmethod.jp/articles/20260805-cc-updates-v2-1-222/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-05T05:41:38+00:00",
+      "summary": "Claude Code v2.1.222がリリースされました。新機能はありませんが、worktreeのセッション分離やPreToolUseフックの権限チェック、auto モードの安全性向上など、セキュリティと安定性に関わる重要な修正が21件入っています。エージェントに権限を委ねる使い方をしている方は特に確認を急ぐ価値があります。"
+    },
+    {
+      "title": "AI エージェントの「2週間かかります」は、誰の2週間なのか ― 測定されている事実を並べる",
+      "url": "https://zenn.dev/nihonbashi/articles/llm-time-estimate-human-hours",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T05:40:15+00:00",
+      "summary": "はじめに コーディングエージェントに作業を頼むと、着手前に見積もりが返ってくることがあります。「フェーズ1に2〜3日、フェーズ2に1〜2日、合計で5〜8日」。そして実際に走らせると、1時間で終わる。 この現象について、ネット上には体験談が大量にあります。一方で「なぜそうなるのか」を、測定された事実だけで説明した日本語の記事はあまり見かけません。推測と実測が混ざったまま流通しているのが現状です。 この記事では、公開されている研究・提供者の検証・一次報告を整理して、次の3点をはっきりさせます。 何が実際に測定されていて、何がまだ推測なのか 効果が数字で確認されている対策は何か（3つし..."
+    },
+    {
+      "title": "【スライド作成一本勝負】M365 Copilot Cowork・Claude Cowork・ChatGPT Workを比較してみた",
+      "url": "https://zenn.dev/headwaters/articles/f01666dff21c3b",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T04:19:46+00:00",
+      "summary": "Microsoft、Anthropic、OpenAIが提供するAIエージェントに、まったく同じプロンプトでスライド作成を依頼しました。 比較したのは、以下の3つです。 M365 Copilot Cowork Claude Cowork ChatGPT Work なお、M365 Copilot Coworkについては、モデル選択による違いも確認するため、「自動」とGPT-5.6 Solの2条件で実行しました。 単にスライドを生成できるかではなく、デザイン性、指示の遵守、顧客向け資料としての完成度、生成スピード、コストまで比較します。 比較条件 使用したプロンプト 詳細な指示を与..."
+    },
+    {
+      "title": "人間は文章を書くな。論理を書け。",
+      "url": "https://zenn.dev/genf740/articles/3b2c9702-a775-8128-b6fc-ed7d5ce82914",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-05T00:01:31+00:00",
+      "summary": "! この記事は ChatGPT をインタビュアーとして執筆しています。この記事のすべての文章が、ChatGPT によって生成されたものです。 TL;DR 申請書やレポートでは、人間が一文ずつ書くことより、結論と論理構造を決めることの方が重要だ。 初稿は AI に任せ、浮いた時間を推敲、一次資料の確認、論理の検証に使えばよい。ただし、主張が曖昧なまま生成文を受け入れると、AI が補った前提に自分の考えを引っ張られる。 文章化そのものが思考を深める場面もある。今後は、その役割の一部が AI との対話へ移っていくと考えている。 AI には誤字脱字だけを任せる、なんてまだ思っていないか..."
+    },
+    {
+      "title": "売上レポート生成、表形式と自然文形式で3社の数値抽出精度が変わった",
+      "url": "https://zenn.dev/every_ai_recipe/articles/sales-report-table-vs-text-3ai",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-04T21:09:14+00:00",
+      "summary": "TL;DR 同じ売上データを「表形式（ラベル付き数値の羅列）」と「自然文形式（文章中に数字を埋め込んだメモ）」の2通りで用意し、ChatGPT・Claude・Geminiに同一プロンプトでレポート生成させ、数値正確性・構成・網羅性の3項目で採点した 表形式ではClaudeが満点、自然文形式では逆にClaudeが最下位に転落し、Geminiが逆転トップになった。同一タスク・同一モデル群でも、入力の「形式」だけで順位が入れ替わる 表形式でもラベル（フィールド名）を省いて数値だけ並べると、位置情報だけを頼りに誤読するケースが出た。構造化入力の強みは形式そのものではなく、フィールド境界が明..."
+    },
+    {
+      "title": "Amazon EKS の aws-auth ConfigMap からアクセスエントリへの安全な移行手順",
+      "url": "https://zenn.dev/socialplus/articles/019362d8c7a42b",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-04T08:08:47+00:00",
+      "summary": "概要 Amazon EKS の Kubernetes API への IAM プリンシパルのアクセス許可は、長らく aws-auth ConfigMap で管理するのが一般的でした。 枯れた仕組みではあるものの、AWS 公式ドキュメントで以下のように明記されている通り、現在は非推奨です。 aws-auth ConfigMap は非推奨になりました。Kubernetes API へのアクセスを管理する推奨手段については、「EKS アクセスエントリを使用して Kubernetes へのアクセスを IAM ユーザーに許可する」を参照してください。 — Amazon EKS ユーザーガイド ..."
+    },
+    {
+      "title": "Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？",
+      "url": "https://zenn.dev/benjuwan/articles/c2ba48e7662f92",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-04T04:57:19+00:00",
+      "summary": "はじめに スキル（SKILL.md）で定型業務をAIに移譲したり、特定業務の自動化・半自動化を実現したりといった状況は珍しくなくなってきたと思います。 例えば、ブラウザ操作のトレースはplaywright-mcpまたはplaywright-cliで行い、そのトレース結果からAIに業務効率化のスキル作成までをしてもらうのも一般的でしょう。 とはいえ、あくまでブラウザ操作ベースでの話になります。 ここ最近、ローカルPCのアプリケーションやソフトといったPC操作ベースでの業務効率化スキルを作成できる術を探していたところ、今回紹介するmicrosoft/skill-recorderを知りまし..."
+    },
+    {
+      "title": "claude setup-token で発行できるトークンの発行制限とスコープを調べてみた",
+      "url": "https://dev.classmethod.jp/articles/claude-setup-token-scope-restriction/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-04T02:18:53+00:00",
+      "summary": "Claude Codeの`setup-token`コマンドで発行されるOAuthトークンについて、その権限範囲と流出時のリスクを実際に調べてみました。"
+    },
+    {
+      "title": "Claude Code v2.1.220〜v2.1.221 の主要アップデート - print モードの MCP 接続修正と権限チェックのバイパス修正",
+      "url": "https://dev.classmethod.jp/articles/20260804-cc-updates-v2-1-221/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-04T02:14:38+00:00",
+      "summary": "Claude Code v2.1.220〜v2.1.221のアップデート内容をご紹介します。約10日ぶりのアップデートで、権限チェックの脆弱性修正やprint モードのMCP接続修正など、土台部分の整備が中心です。"
+    },
+    {
+      "title": "ChatGPT Sitesは『作る』だけでなく『公開』まで終わらせてくれる",
+      "url": "https://zenn.dev/headwaters/articles/6b5643581e0bf3",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-04T00:21:31+00:00",
+      "summary": "はじめに 生成AIを使えば、TodoアプリのようなシンプルなWebアプリはかなり簡単に作れるようになりました。 しかし、コードが完成しても、それだけではブラウザから使えるWebサービスにはなりません。ホスティング先を決め、ビルドやデプロイを設定し、公開URLを用意する必要があります。 今回ChatGPT Sitesを使ってみて強く感じたのは、AIによるアプリ作成だけでなく、この「公開までの最後のひと手間」まで完結することでした。 この記事では、Todoアプリの細かな実装ではなく、ChatGPT Sitesの機能と、作ったアプリをすぐ使える状態にできる利便性を中心に紹介します。 こ..."
+    },
+    {
+      "title": "週次タスク棚卸しの差分抽出、ステートレスなLLMに前回状態を外部化して渡す運用",
+      "url": "https://zenn.dev/every_ai_recipe/articles/weekly-task-diff-1min-rollup",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-03T21:07:16+00:00",
+      "summary": "TL;DR 週次のタスク棚卸しを毎週続けても、前回との「変化点」だけを知りたい場面では、リスト全体を再読させるだけでは効率が悪い。前回の棚卸し結果を外部に保存し、今回分と一緒に渡して「集合差」を answer させる運用に切り替えた 差分抽出は本質的に集合演算（今週にあって先週に無いもの・先週にあって今週に無いもの）だが、要素の一致判定を語彙一致に任せると、表現が違うだけの同一タスクを両方「新規」として誤検出する LLM自体はセッションをまたいだ状態を持たない（ステートレス）。差分比較を成立させるには、人間側が「前回の状態」をテキストとして外部化し、毎回プロンプトに明示的に含める必..."
+    },
+    {
+      "title": "【2026年版】LLM御三家 GPT vs Gemini vs Claude 徹底比較 〜違い・特徴・使い分け〜",
+      "url": "https://zenn.dev/m16_llc/articles/gpt-gemini-claude-comparison-2026",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-03T14:00:05+00:00",
+      "summary": "こんにちは、M16合同会社の代表社員&COO(最高執行責任者)であり、FDE, PdM, PM, ソフトウェアエンジニア/LLMエンジニアのまさぴょんです🐱 「結局、ChatGPT・Gemini・Claude のどれを使えばいいの?」——AIを仕事に使い始めた人から、いちばんよく聞かれる質問です。 2026年現在、LLM(大規模言語モデル)の世界は OpenAI の GPT、Google の Gemini、Anthropic の Claude という「御三家」が三つ巴で競い合う構図になっています。 そして面白いのは、トップ性能の差は史上最小まで縮まった一方で、3社の「性格」の違い..."
+    },
+    {
+      "title": "大学へ無料提供されるOpenAI依存に陥る未来、日本独自AIは生き残れるのか",
+      "url": "https://zenn.dev/syoshida07/articles/5ec4103cde9bd6",
+      "source": "Zenn（ChatGPT）",
+      "category": "ChatGPT",
+      "published_at": "2026-08-03T13:54:41+00:00",
+      "summary": "7月29日 OpenAIは大学研究者向けプログラム ChatGPT for Academic Researchers を正式発表した。 公式発表URL：OpenAI : Accelerating scientific discovery with ChatGPT for Academic Researchers このプログラムは、世界の大学研究者10万人を対象に、GPT‑5.6 Sol Pro を含む最上位モデル群を12ヶ月間無償提供するという大規模な研究支援施策である。 生命科学・数学・工学など75種類以上の研究スキルを備え、文献調査・仮説生成・実験設計・データ解析・論文執筆まで研究プ..."
+    },
+    {
+      "title": "【Claude】 Claude Enterpriseでメンバーに作成したSkillを共有する",
+      "url": "https://dev.classmethod.jp/articles/claude-enterprise-sharing-skills/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-03T07:05:05+00:00",
+      "summary": "Claudeの組織プランで作成したスキルをメンバーに共有する方法を初心者向けに解説しています。"
+    },
+    {
+      "title": "KubeCon CloudNativeCon Japan 2026 参加レポート",
+      "url": "https://zenn.dev/hrk_sgyumm23/articles/132182dee2282a",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-02T09:17:14+00:00",
+      "summary": "はじめに 先日、横浜で開催された「KubeCon CloudNativeCon Japan 2026」に参加してきました。 様々なセッションがあった中で、個人的に一番気になったのが、セルフホストのLLM（大規模言語モデル）のインフラ基盤に関するテーマでした。 普段LLMは利用するだけで内部のインフラがどのようなアーキテクチャなのか興味があったのとそこある工夫が知りたかったためです。 普段はアプリケーション寄りの開発をすることが多いのですが、今回は「KVキャッシュ」というキーワードを中心に、別々のセッションの内容が見事にリンクしていて面白かったので、備忘録も兼ねてまとめたいと思います。..."
+    },
+    {
+      "title": "Claude Community EventでClaude Managed Agentsを触ってみた",
+      "url": "https://dev.classmethod.jp/articles/claude-managed-agents-workshop-osaka/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-01T07:00:27+00:00",
+      "summary": "大阪で開催された「Claude Managed Agents Workshop」に参加してきたので、その時の様子や学んだことをレポートします。"
+    },
+    {
+      "title": "Claude Code の CLI と Claude Desktop の Code タブは MDM で個別に無効化できるか試してみた",
+      "url": "https://dev.classmethod.jp/articles/claude-code-cli-desktop-mdm-disable/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-01T05:24:45+00:00",
+      "summary": "Claude Enterprise で Claude Code の利用を部門やPC単位で制御したいとき、カスタムロールと MDM でどこまで細かく設定できるのか試してみました。"
+    },
+    {
+      "title": "Authelia を OIDC Provider にする：Grafana・Gitea の SSO と Kubernetes 認証を理解する",
+      "url": "https://zenn.dev/chaokovsky/articles/authelia-oidc-kubernetes-sso",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-01T04:49:17+00:00",
+      "summary": "最終確認日：2026-08-01（Asia/Tokyo） 本文は、稼働中の Kubernetes クラスタを読み取り専用で確認した結果に基づいています。調査ではリソースの作成、更新、削除を行っていません。本文にあるインストールおよび適用コマンドは、実際の構成をもとに機密情報を取り除いて再構成した例です。環境差分を確認せず、そのまま実行しないでください。 OIDC client secret、署名用秘密鍵、ID Token、cookie、password は掲載しません。 形式の値は、自分の環境に合わせて置き換えてください。 Authelia は re..."
+    },
+    {
+      "title": "Kubecon Japan 2026 参加レポ",
+      "url": "https://zenn.dev/satoken/articles/kuebcon-ja-2026",
+      "source": "Zenn（Kubernetes）",
+      "category": "Kubernetes",
+      "published_at": "2026-08-01T02:41:35+00:00",
+      "summary": "はじめに 7/28 ~ 7/30 にパシフィコ横浜で開催されたKubecon Japanに参加してきたので簡単なレポートとします。 0日目 KubeCon前日の28日はJapan Community Daysとして、日本の様々なコミュニティからのトークがありました。 takemioさんのXDPとWasmを利用したパケットジェネレーターのセッション tetragonに熱心なhymさんのセッション コンテナランタイムをJavaで自作する！セッションなどを聞きました。 コンテナランタイムは興味がある分野なので、後でじっくり見返したいと思います。 1日目 29日からがKub..."
+    },
+    {
+      "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】スライド作成、Claude Design と Claude Cowork どちらが良いものができて、どちらが安いのか？",
+      "url": "https://dev.classmethod.jp/articles/claudedesign-cowork-slide/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-08-01T01:02:00+00:00",
+      "summary": "同じプロンプトでClaude Designとチャット版Claudeにスライドを作ってもらったら、専用ツールのDesignだけが要件を聞き返してきました。出力はチャット版が華やかで盛り気味、Designは地味だが忠実。しかも費用はDesignの方が安い。正確さならDesign、初速ならチャット版という結論に。"
+    },
+    {
+      "title": "ベータ機能の「Claude Tag」を整理してみた",
+      "url": "https://dev.classmethod.jp/articles/myan-claude-tag-beta/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-31T10:49:13+00:00",
+      "summary": "Claude TagのAccess Bundleを中心に概要をまとめてみました"
+    },
+    {
+      "title": "Claude Consoleでクレジットを購入し、APIキーを発行した",
+      "url": "https://dev.classmethod.jp/articles/claude-console-buy-credit-create-api-key/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-31T08:23:56+00:00",
+      "summary": "iOSライブラリの検証でClaude APIキーが必要になり、Claude Consoleで先にAPIクレジットを購入する必要があることが分かった。請求ページでの金額選択から住所・カード情報の入力、購入確定、APIキー作成までの手順と、購入ボタンが押せない場合の対処法をまとめた。"
+    },
+    {
+      "title": "Claudeで営業資料を「顧客課題に合わせた提案資料」にアップグレードしてみた",
+      "url": "https://dev.classmethod.jp/articles/claude-customize-sales-material/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-30T13:50:39+00:00",
+      "summary": "事前ヒアリングした課題をもとに、Claudeを使って営業テンプレートを効率よくアレンジし、商談準備を実際に試してみました。既存資料をゼロから作り直すのではなく、ターゲットに合わせた提案スライドとアジェンダを生成し、当日の商談をスムーズに進められた事例をご紹介します。"
+    },
+    {
+      "title": "Claude の Web Fetch ツールが最新情報を返すとは限らない話",
+      "url": "https://dev.classmethod.jp/articles/claude-web-fetch-cache/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-30T11:52:07+00:00",
+      "summary": "Claude の Web Fetch ツールがキャッシュを返していて、古いドキュメントの情報を最新と思い込んでしまいました。どうやら Web Fetch ツールの仕様は AI によって異なるようです。"
+    },
+    {
+      "title": "Claude Enterprise のカスタムロールで Claude Code を無効化すると CLI と Claude Desktop の両方が使えなくなるのか試してみた",
+      "url": "https://dev.classmethod.jp/articles/claude-enterprise-role-disable-claude-code-cli-desktop/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-29T23:37:27+00:00",
+      "summary": "Claude Enterprise のカスタムロール設定にある「Claude Code」チェックボックスを外すと、Claude Code CLI と Claude Desktop の Code タブがそれぞれどうなるのか実際に確認してみました。"
+    },
+    {
+      "title": "Claude CodeでサッカークラブのLINEお友だち数を自動取得してみた",
+      "url": "https://dev.classmethod.jp/articles/claudecode-linefriends-collect/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-29T11:54:32+00:00",
+      "summary": "生成AIを「試したけど業務では使いこなせない」と諦めていませんか？コードを書かない私が、Claude Codeを使ってJ1全クラブのLINE友だち数を毎日自動取得する仕組みを作ってみました。AIとの具体的な向き合い方をご紹介します。"
+    },
+    {
+      "title": "【非エンジニアのためのClaude/Claude Codeシリーズ】クラスメソッド営業にJoinしたメンバーの入社後研修をサポートするclaudeの活用法",
+      "url": "https://dev.classmethod.jp/articles/claude-checkride-sales-training/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-28T06:18:39+00:00",
+      "summary": ""
+    },
+    {
+      "title": "GitHub MCPのRead-only modeを使う",
+      "url": "https://dev.classmethod.jp/articles/github-mcp-read-only-mode-verification/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-27T12:14:32+00:00",
+      "summary": "Github MCPのRead-only modeがどのようなセキュリティ機能なのか、実装の仕組みも含めて調査してみました。書き込み権限を与えずにMCPを活用したい場合の選択肢として、その仕組みを紹介します。"
+    },
+    {
+      "title": "Claude Consoleで「クレジットを購入」ボタンが押せない問題を解決した",
+      "url": "https://dev.classmethod.jp/articles/claude-console-credit-purchase-prefecture-not-selected/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-27T11:57:50+00:00",
+      "summary": "Claude ConsoleでAPIキー発行のためにクレジットを購入しようとしたところ、「クレジットを購入」ボタンが押せない問題に遭遇した。原因を調査した結果、配送先住所の都道府県欄が未入力になっていることが判明した。同じ症状に悩む方の参考になれば幸いだ。"
+    },
+    {
+      "title": "【小ネタ】 グローバル設定した /effort レベルは /advisor で指定したモデルにも適用されるのか？を調べてみた",
+      "url": "https://dev.classmethod.jp/articles/effort-level-to-advisor-model/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-27T04:42:37+00:00",
+      "summary": "Claude Opus 5 の登場に合わせて、`/advisor` と `/effort` の関係について調べてみました。セッション全体の effort 設定は executor にしか適用されず、advisor 側の effort はどうなっているのか？、公式ドキュメントと GitHub Issues を調べた内容をまとめました。"
+    },
+    {
+      "title": "【非エンジニアのためのClaude/Claude Codeシリーズ】AIの設定でひとつだけいじる価値があったもの ── effortは「賢さ」ではなく「仕事量」のつまみだった",
+      "url": "https://dev.classmethod.jp/articles/claude-business-use6/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-25T13:32:26+00:00",
+      "summary": "営業ツールとClaudeを連携させる試行錯誤の中で、「effort」という設定の意味を誤解していたことに気づきました。これは非エンジニアの私のような仕事をしている人ほど、大きな影響を受ける設定です。その実態と、仕事の質を左右する使い分けについて解説します。"
+    },
+    {
+      "title": "【非エンジニアのためのClaude/Claude Codeシリーズ】営業マネージャーがClaudeの公式営業スキルを使わず、自分で作って育て、棚卸しした話",
+      "url": "https://dev.classmethod.jp/articles/claude-business-use5/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-25T13:06:48+00:00",
+      "summary": "公式の営業スキルを使わずに自作していたことに気づき、実際に比較してみました。そこから見えてきたのは、汎用品には入らない「自分の失敗の記録」が精度を大きく左右することと、自動で動かしたものの半分について、自分が状態を把握できていなかったという意外な事実です。"
+    },
+    {
+      "title": "Claude Codeのフォールバックモデル設定(fallbackModel)について調査してみた",
+      "url": "https://dev.classmethod.jp/articles/claude-code-fallback-model/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-25T12:46:15+00:00",
+      "summary": "Claude Codeで高性能モデルを使っていると、アクセス集中時にリクエストが失敗することがあります。本記事では、`fallbackModel`設定を使ってモデル利用不可時に自動で別モデルに切り替える方法を紹介します！"
+    },
+    {
+      "title": "Claude Enterprise のアナリティクス画面を一般メンバーにも見せることはできますか",
+      "url": "https://dev.classmethod.jp/articles/claude-enterprise-analytics-custom-role-view/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-25T03:40:05+00:00",
+      "summary": "Claude Enterprise のカスタムロールを使うと、管理者権限を渡さずに一般メンバーにアナリティクス画面を開放できます。その設定方法と注意点を確認してみました。"
+    },
+    {
+      "title": "Claude Enterprise でカスタムロールのコネクタをすべてブロックしても GitHub 連携が消えないのはなぜですか",
+      "url": "https://dev.classmethod.jp/articles/claude-enterprise-custom-role-connector-github-integration/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-25T03:08:40+00:00",
+      "summary": "Claude Enterpriseのカスタムロールですべてのコネクタをブロック済みにしたのに、なぜかGitHub連携だけが消えません。設定漏れなのか仕様なのか、調べてみました。"
+    },
+    {
+      "title": "Claude Opus 5 が Kiro IDE / CLI で選択可能になりました",
+      "url": "https://dev.classmethod.jp/articles/kiro-ide-cli-claude-opus-5/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-24T22:55:40+00:00",
+      "summary": "2026年7月24日にAnthropicが発表したClaude Opus 5が、同日中にKiro IDE / CLIのモデルセレクターにExperimental previewとして追加されました。モデルセレクターでの表示を確認します。"
+    },
+    {
+      "title": "Amazon Bedrock で Claude Opus 5 が利用可能になったので Converse API で試してみた",
+      "url": "https://dev.classmethod.jp/articles/bedrock-claude-opus-5-converse-api/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-24T18:40:56+00:00",
+      "summary": "2026年7月24日リリースの Claude Opus 5 が Amazon Bedrock で即日利用可能になりました。Inference Profile 経由での呼び出し方法と、Thinking パラメータの仕様変更（enabled → adaptive + effort）を Converse API で確認しています。"
+    },
+    {
+      "title": "Claude Code v2.1.219 の主要アップデート - Claude Opus 5 の登場、Opus 4.8 と同じ価格、2.5 倍の Fast モードも提供",
+      "url": "https://dev.classmethod.jp/articles/20260725-cc-updates-v2-1-219/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-24T18:07:12+00:00",
+      "summary": "Claude Code v2.1.219がリリースされました。新モデル「Claude Opus 5」の追加が目玉ですが、実務ではサンドボックス設定やサブエージェントの既定値変更など、周辺環境の変更のほうが影響が大きい可能性があります。アップデート内容と実際の動作を確認してみました。"
+    },
+    {
+      "title": "【非エンジニアのためのClaude/ClaudeCodeシリーズ】 Cloude Designを使ってみた",
+      "url": "https://dev.classmethod.jp/articles/claude-business-use002/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-24T03:00:09+00:00",
+      "summary": "# Excerpt Claudeに新しく追加された「Design」機能を使って、実際にイベント案内資料を作成してみました。テンプレートから設問への回答だけで簡単に資料を作れる便利さをご紹介します。"
+    },
+    {
+      "title": "AzureのダブルチェックをClaudeで自動化できたのでGCPにも横展開したら、GUI目視に戻ってきた話",
+      "url": "https://dev.classmethod.jp/articles/gcp-cli-automation-gui-check/",
+      "source": "DevelopersIO（Claude）",
+      "category": "Claude",
+      "published_at": "2026-07-24T02:28:32+00:00",
+      "summary": "GCP版プロジェクト作成チェックの自動化に挑戦しましたが、quota projectやAPI有効化など予想外の壁にハマりました。結果として「少件数の日常運用ではGUI目視の方が速い」という判断に至った経験を、ハマりどころと共にお話しします。"
+    },
+    {
+      "title": "[アップデート] AWS Security Hub から Microsoft Azure のセキュリティチェックが出来るようになったので試してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-security-hub-supports-monitoring-microsoft-azure/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-07-08T17:05:03+00:00",
+      "summary": "AWS Security Hub が Azure リソースの監視に対応しました。マルチクラウド環境でのセキュリティ運用が一つのコンソールで可能になった新機能を、セットアップから検出結果の確認まで実際に試してみます。"
+    },
+    {
+      "title": "Microsoft Sentinel へ転送する AWS Security Hub CSPM の Findings を特定サービスのみに限定してみた",
+      "url": "https://dev.classmethod.jp/articles/filter-aws-security-hub-cspm-findings-for-microsoft-sentinel/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-07-04T04:48:52+00:00",
+      "summary": "Security Hub CSPM の Findings を Microsoft Sentinel に転送する際に、EventBridge のイベントパターンを調整して、転送するサービスと重要度を限定する方法を試してみました。"
+    },
+    {
+      "title": "Claudeプロジェクトでダブルチェック作業を半自動化してみた",
+      "url": "https://dev.classmethod.jp/articles/claude-azure-double-check-tried/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-07-01T23:30:10+00:00",
+      "summary": "Azure のリソースグループ作成後のダブルチェック作業を、Claude と Azure CLI を使って半自動化してみました。手作業では15〜20分かかっていた確認が、5〜10分に短縮できた工夫をご紹介します。"
+    },
+    {
+      "title": "Microsoft Sentinel に AWS Security Hub CSPM の Findings を転送してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-security-hub-cspm-findings-to-microsoft-sentinel/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-06-29T05:16:17+00:00",
+      "summary": "Microsoft Sentinel に AWS Security Hub CSPM の Findings を転送してみた"
+    },
+    {
+      "title": "Azure AI Search（Foundry IQ）とMicrosoft FoundryでRAGをつくる",
+      "url": "https://dev.classmethod.jp/articles/create-rag-with-azure-ai-search-and-microsoft-foundry/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-06-22T02:40:15+00:00",
+      "summary": "これまでのドキュメントを知見として活かしたい！Azure AI SearchとMicrosoft Foundryを使ったRAG構築に挑戦し、自分の書いた文章をもとにAIが回答できる仕組みを作ってみました。"
+    },
+    {
+      "title": "クラウド活用の現在地を知り、次の一歩を見つける『クラウド活用成熟度アセスメント』を紹介！",
+      "url": "https://dev.classmethod.jp/articles/cloud-maturity-assessment-release/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-06-08T05:09:44+00:00",
+      "summary": "クラウド活用の現在地を知り、次の一歩を見つける『クラウド活用成熟度アセスメント』を紹介！"
+    },
+    {
+      "title": "AWS DevOps Agent で Azure 環境のどこまで見えるか試してみた",
+      "url": "https://dev.classmethod.jp/articles/aws-devops-agent-azure-reader-scope/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-29T05:26:44+00:00",
+      "summary": "DevOps AgentでのAzure調査は夢いっぱい"
+    },
+    {
+      "title": "AWS DevOps Agent と Azure を繋いで DevOps Agent で Azure 側のリソースを調査させてみた",
+      "url": "https://dev.classmethod.jp/articles/aws-devops-agent-azure-integration/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-22T09:02:30+00:00",
+      "summary": "DevOps AgentはAzureの調査もできるよ！"
+    },
+    {
+      "title": "Amazon Route 53 で管理しているドメインのサブドメインを Azure DNS に委任してみた",
+      "url": "https://dev.classmethod.jp/articles/delegate-zone-from-amazon-route53-to-azure-dns/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-21T14:40:53+00:00",
+      "summary": "Amazon Route 53 で管理しているドメインのサブドメインを Azure DNS に委任してみた"
+    },
+    {
+      "title": "生成AIを使ったソフトウェア開発におけるセキュリティの問題点について整理してみた",
+      "url": "https://dev.classmethod.jp/articles/security-on-software-development-with-generative-ai/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-17T22:00:12+00:00",
+      "summary": "生成AIを使ったソフトウェア開発が急速に普及する中で、その一方で「この方法で進めても本当に安全なのか」という疑問から、セキュリティ面での課題を整理してみました。AIに任せる範囲・権限・並列度が今後拡大していく中で、従来のセキュリティ対策だけでは対応しきれない問題が出てきています。本記事では、現状の問題点を整理し、これからの対策の方向性を示します。"
+    },
+    {
+      "title": "Azure Data FactoryからSnowflakeへのManaged Private Endpointを設定してデータ連携してみた",
+      "url": "https://dev.classmethod.jp/articles/azure-data-factory-snowflake-managed-private-endpoint-data-integration/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-15T01:52:34+00:00",
+      "summary": "Azure Data FactoryからSnowflakeへのManaged Private Endpointを設定してデータ連携してみた"
+    },
+    {
+      "title": "源内 AI アプリリポジトリの Azure vLLM/OpenAI テンプレートを源内 Web に接続してみた",
+      "url": "https://dev.classmethod.jp/articles/digital-genai-exapp-azure/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-05-10T21:49:08+00:00",
+      "summary": "源内 AI アプリリポジトリの Azure vLLM/OpenAI テンプレートを源内 Web に接続してみた"
+    },
+    {
+      "title": "Bedrock Mantle の Responses API はどこまで Azure と互換性があるか試してみた",
+      "url": "https://dev.classmethod.jp/articles/bedrock-mantle-responses-api-azure-compatibility-comparison/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-04-28T14:52:15+00:00",
+      "summary": "Stateful Runtime Environment と GPT-5 系モデルの Bedrock 提供に備え、Azure AI Foundry で GA 済みの Responses API と Bedrock Mantle を同じテストで比較しました。`previous_response_id` によるステートフル会話やツール対応の差分を検証しています。"
+    },
+    {
+      "title": "Microsoft Foundry Agent Service で AI エージェントを作成してみた",
+      "url": "https://dev.classmethod.jp/articles/microsoft-foundry-agent-service-create-agent/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-04-17T09:45:38+00:00",
+      "summary": "Microsoft Foundry Agent Service で AI エージェントを作成してみた"
+    },
+    {
+      "title": "Microsoftが出した新しいAIモデル3種を試してみた",
+      "url": "https://dev.classmethod.jp/articles/microsoft-mai-series-voice-image-models/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-04-06T07:32:11+00:00",
+      "summary": "Microsoftが出した新しいAIモデル3種を試してみた"
+    },
+    {
+      "title": "AWS SCP の大きいサイズのインスタンス制限を Azure Policy で再現してみた",
+      "url": "https://dev.classmethod.jp/articles/202603-azure-policy-deny-large-vm-sizes/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-03-31T14:51:01+00:00",
+      "summary": "AWS SCP の大きいサイズのインスタンス制限を Azure Policy で再現してみた"
+    },
+    {
+      "title": "Azure PIM の永続アクティブ割り当てを Azure Policy で禁止してみた",
+      "url": "https://dev.classmethod.jp/articles/202603-azure-pim-deny-permanent-active-assignment-by-policy/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-03-31T00:00:06+00:00",
+      "summary": "Azure PIM の永続アクティブ割り当てを Azure Policy で禁止してみた"
+    },
+    {
+      "title": "Entra ID と AWS IAM Identity Center を連携している環境において SAML 証明書を更新してみた",
+      "url": "https://dev.classmethod.jp/articles/entra-id-aws-iam-identity-center-saml-certificate-renewal/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-21T13:41:28+00:00",
+      "summary": "Entra ID と AWS IAM Identity Center を連携している環境において SAML 証明書を更新してみた"
+    },
+    {
+      "title": "Azure Application Gateway WAF v2 の HTTP DDoS ルールセットを設定してみた",
+      "url": "https://dev.classmethod.jp/articles/azure-appgw-waf-httpddos/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-11T03:27:21+00:00",
+      "summary": "Azure Application Gateway WAF v2 の HTTP DDoS ルールセットを設定してみた"
+    },
+    {
+      "title": "『3大クラウドから学ぶクラウド上でのランサムウェア対策』というタイトルでクラメソさっぽろIT勉強会 (仮) で登壇しました #cm_sapporo_study",
+      "url": "https://dev.classmethod.jp/articles/cm-sapporo-study-12-ransomware/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-10T10:38:15+00:00",
+      "summary": "『3大クラウドから学ぶクラウド上でのランサムウェア対策』というタイトルでクラメソさっぽろIT勉強会 (仮) で登壇しました #cm_sapporo_study"
+    },
+    {
+      "title": "ランサムウェア対策のための Azure Backup + Recovery Services の不変コンテナー設定を確認してみた",
+      "url": "https://dev.classmethod.jp/articles/azure-backup-imutable-container/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-09T14:07:18+00:00",
+      "summary": "ランサムウェア対策のための Azure Backup + Recovery Services の不変コンテナー設定を確認してみた"
+    },
+    {
+      "title": "Azure Front Door で DHE 暗号スイートのサポートが終了するので背景などを整理してみた",
+      "url": "https://dev.classmethod.jp/articles/azure-fd-tls12-dhe/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-08T01:10:51+00:00",
+      "summary": "Azure Front Door で DHE 暗号スイートのサポートが終了するので背景などを整理してみた"
+    },
+    {
+      "title": "Azure Application Gateway WAF ポリシー で Microsoft_DefaultRuleSet_2.2 が使えるようになりました",
+      "url": "https://dev.classmethod.jp/articles/azure-appgw-waf-drs22/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-07T03:40:04+00:00",
+      "summary": "Azure Application Gateway WAF ポリシー で Microsoft_DefaultRuleSet_2.2 が使えるようになりました"
+    },
+    {
+      "title": "検証用の Azure Application Gateway を構築できるように Bicep テンプレートやスクリプトなどを整備してみた",
+      "url": "https://dev.classmethod.jp/articles/azure-appgw-devenv-script/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-05T04:19:53+00:00",
+      "summary": "検証用の Azure Application Gateway を構築できるように Bicep テンプレートやスクリプトなどを整備してみた"
+    },
+    {
+      "title": "Azure App Testing の Playwright ワークスペースでレポート機能を有効化し、Azure Blob ストレージにテスト結果などを自動アップロードできるようになりました",
+      "url": "https://dev.classmethod.jp/articles/azure-app-testing-reporting/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-02-01T21:38:21+00:00",
+      "summary": "Azure App Testing の Playwright ワークスペースでレポート機能を有効化し、Azure Blob ストレージにテスト結果などを自動アップロードできるようになりました"
+    },
+    {
+      "title": "Azure の各管理グループに所属しているサブスクリプション一覧を csv で出力してみる",
+      "url": "https://dev.classmethod.jp/articles/list-azure-management-group-subscriptions-to-csv/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-01-29T15:18:42+00:00",
+      "summary": "Azure の各管理グループに所属しているサブスクリプション一覧を csv で出力してみる"
+    },
+    {
+      "title": "Azure 管理グループをツリー形式で表示するシェルスクリプトを作ってみた",
+      "url": "https://dev.classmethod.jp/articles/azure-management-group-tree-script/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2026-01-16T05:59:11+00:00",
+      "summary": "Azure 管理グループをツリー形式で表示するシェルスクリプトを作ってみた"
+    },
+    {
+      "title": "Azure App Testing の Playwright ワークスペースが GA したので使ってみた",
+      "url": "https://dev.classmethod.jp/articles/azure-playwright-workspaces-ga/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-09-09T22:42:37+00:00",
+      "summary": "Azure App Testing の Playwright ワークスペースが GA したので使ってみた"
+    },
+    {
+      "title": "Microsoft Defender for Cloud の Log Analytics ワークスペース向けの連続エクスポートを Azure ポリシーで設定してみる",
+      "url": "https://dev.classmethod.jp/articles/export-microsoft-defender-for-cloud-log-to-log-analytics-workspace/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-09-06T15:34:03+00:00",
+      "summary": "Microsoft Defender for Cloud の Log Analytics ワークスペース向けの連続エクスポートを Azure ポリシーで設定してみる"
+    },
+    {
+      "title": "Microsoft Sentinel の異常検出分析ルールの検出結果をブックで可視化する設定をしてみる",
+      "url": "https://dev.classmethod.jp/articles/microsoft-sentinel-anomalies-book/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-09-05T11:09:17+00:00",
+      "summary": "Microsoft Sentinel の異常検出分析ルールの検出結果をブックで可視化する設定をしてみる"
+    },
+    {
+      "title": "Azure App Testing というテストソリューションのハブが Microsoft Azure で利用できるようになりました",
+      "url": "https://dev.classmethod.jp/articles/azure-app-testing/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-08-22T01:28:50+00:00",
+      "summary": "Azure App Testing というテストソリューションのハブが Microsoft Azure で利用できるようになりました"
+    },
+    {
+      "title": "Microsoft Sentinel を有効化してコンテンツのインストールから分析ルールの作成までの流れを試してみた",
+      "url": "https://dev.classmethod.jp/articles/installing-content-hub-and-creating-analytics-rule-in-microsoft-sentinel/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-08-19T04:32:51+00:00",
+      "summary": "Microsoft Sentinel を有効化してコンテンツのインストールから分析ルールの作成までの流れを試してみた"
+    },
+    {
+      "title": "Azure Policy イニシアチブ定義 を使って、環境内でパブリックアクセス可能なリソースを検出しつつ、新規でパブリックアクセス可能なDBの作成は拒否してみる",
+      "url": "https://dev.classmethod.jp/articles/audit-public-network-access-and-db-deny/",
+      "source": "DevelopersIO（Azure）",
+      "category": "Azure",
+      "published_at": "2025-08-17T06:29:23+00:00",
+      "summary": "Azure Policy イニシアチブ定義 を使って、環境内でパブリックアクセス可能なリソースを検出しつつ、新規でパブリックアクセス可能なDBの作成は拒否してみる"
+    },
+    {
+      "title": "Swinsian",
+      "url": "https://swinsian.com/",
+      "source": "はてなブックマーク",
+      "category": "はてなブックマーク IT",
+      "published_at": "2012-10-23T10:40:52+00:00",
+      "summary": "Swinsian 3 The Advanced Music Player for Mac Swinsian is a sophisticated music player for macOS with wide format support, folder watching, advanced tag editing and designed to be responsive even with the largest libraries. Customise The art grid, column browser and track inspector provide multipl..."
+    }
+  ]
+}

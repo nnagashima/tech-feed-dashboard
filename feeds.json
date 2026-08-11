@@ -1,0 +1,19 @@
+[
+  {"name":"Speaker Deck","category":"Speaker Deck","url":"https://speakerdeck.com/c/technology","feed_url":"https://speakerdeck.com/c/technology.atom"},
+  {"name":"はてなブックマーク","category":"はてなブックマーク IT","url":"https://b.hatena.ne.jp/hotentry/it","feed_url":"https://b.hatena.ne.jp/hotentry/it.rss"},
+  {"name":"DevelopersIO（AWS）","category":"AWS","url":"https://dev.classmethod.jp/tags/aws/","feed_url":"https://dev.classmethod.jp/tags/aws/feed/"},
+  {"name":"DevelopersIO（Claude）","category":"Claude","url":"https://dev.classmethod.jp/tags/claude/","feed_url":"https://dev.classmethod.jp/tags/claude/feed/"},
+  {"name":"DevelopersIO（Azure）","category":"Azure","url":"https://dev.classmethod.jp/tags/azure/","feed_url":"https://dev.classmethod.jp/tags/azure/feed/"},
+  {"name":"Qiita（AWS）","category":"AWS","url":"https://qiita.com/tags/aws","feed_url":"https://qiita.com/tags/aws/feed"},
+  {"name":"Qiita（Azure）","category":"Azure","url":"https://qiita.com/tags/azure","feed_url":"https://qiita.com/tags/azure/feed"},
+  {"name":"Qiita（Claude）","category":"Claude","url":"https://qiita.com/tags/claude","feed_url":"https://qiita.com/tags/claude/feed"},
+  {"name":"Qiita（ChatGPT）","category":"ChatGPT","url":"https://qiita.com/tags/ChatGPT","feed_url":"https://qiita.com/tags/ChatGPT/feed"},
+  {"name":"Qiita（Kubernetes）","category":"Kubernetes","url":"https://qiita.com/tags/kubernetes","feed_url":"https://qiita.com/tags/kubernetes/feed"},
+  {"name":"Qiita（Docker）","category":"Docker","url":"https://qiita.com/tags/docker","feed_url":"https://qiita.com/tags/docker/feed"},
+  {"name":"Zenn（AWS）","category":"AWS","url":"https://zenn.dev/topics/aws","feed_url":"https://zenn.dev/topics/aws/feed"},
+  {"name":"Zenn（Azure）","category":"Azure","url":"https://zenn.dev/topics/azure","feed_url":"https://zenn.dev/topics/azure/feed"},
+  {"name":"Zenn（Claude）","category":"Claude","url":"https://zenn.dev/topics/claude","feed_url":"https://zenn.dev/topics/claude/feed"},
+  {"name":"Zenn（ChatGPT）","category":"ChatGPT","url":"https://zenn.dev/topics/chatgpt","feed_url":"https://zenn.dev/topics/chatgpt/feed"},
+  {"name":"Zenn（Kubernetes）","category":"Kubernetes","url":"https://zenn.dev/topics/kubernetes","feed_url":"https://zenn.dev/topics/kubernetes/feed"},
+  {"name":"Zenn（Docker）","category":"Docker","url":"https://zenn.dev/topics/docker","feed_url":"https://zenn.dev/topics/docker/feed"}
+]
