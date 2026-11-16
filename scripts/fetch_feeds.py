@@ -1,11 +1,14 @@
 import html
 import json
 import re
+import socket
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 import feedparser
+
+socket.setdefaulttimeout(30)
 
 ROOT = Path(__file__).parent.parent
 SOURCES = json.loads((ROOT / "feeds.json").read_text())
@@ -23,6 +26,10 @@ def published_at(entry):
     return None
 
 
+def is_http_url(value):
+    return isinstance(value, str) and value.lower().startswith(("http://", "https://"))
+
+
 def plain_text(value):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html.unescape(value or ""))).strip()
 
@@ -36,7 +43,7 @@ for source in SOURCES:
         continue
     for entry in parsed.entries:
         url = entry.get("link")
-        if not url:
+        if not is_http_url(url):
             continue
         articles.setdefault(url, {
             "title": plain_text(entry.get("title", "無題")),

@@ -2,5 +2,12 @@ services:
   dashboard:
     build: .
     ports:
-      - "8088:80"
+      - "127.0.0.1:8088:8080"
     restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
