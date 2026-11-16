@@ -18,6 +18,10 @@ Speaker Deck、はてなブックマーク IT、DevelopersIO（AWS・Claude・Az
 
 Webhook未設定の場合、Slack投稿はスキップされます。
 
+## セキュリティ上の注意
+
+GitHub Pagesではレスポンスヘッダを設定できないため、iframe埋め込み（クリックジャッキング）は防げません。認証や保存機能がないため影響は限定的です。Docker配信ではnginxが`X-Frame-Options`とCSPヘッダで埋め込みを禁止します。
+
 ## ローカル確認
 
 ```bash
